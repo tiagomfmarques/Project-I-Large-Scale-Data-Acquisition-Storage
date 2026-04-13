@@ -1,0 +1,18 @@
+2026-04-13 20:36:54,991 - INFO - Scheduler iniciado. Execução a cada 1h.
+2026-04-13 20:36:54,991 - INFO - ═══════════════════════════════════════════════════
+2026-04-13 20:36:54,991 - INFO -   NOVA EXECUÇÃO — 2026-04-13 20:36:54
+2026-04-13 20:36:54,991 - INFO - ═══════════════════════════════════════════════════
+2026-04-13 20:36:54,991 - INFO - Produtos já no dataset: 0
+2026-04-13 20:36:54,991 - INFO - ─── Fase 1: Extracção via API interna (sem browser) ───
+2026-04-13 20:36:56,754 - INFO - Página 1: +48 produtos | Total: 48
+2026-04-13 20:36:56,754 - INFO - Fase 1 concluída: 48 produtos extraídos.
+2026-04-13 20:36:56,755 - INFO - ─── Fase 2: 26 produtos com reviews | 22 sem reviews (ignorados) ───
+2026-04-13 20:37:04,709 - INFO - Comentários: 10/26 páginas processadas.
+2026-04-13 20:37:10,462 - INFO - Comentários: 20/26 páginas processadas.
+2026-04-13 20:37:12,391 - INFO - Comentários: 26/26 páginas processadas.
+2026-04-13 20:37:12,454 - INFO - Fase 2 concluída.
+2026-04-13 20:37:12,454 - INFO - Novos produtos adicionados: 48
+2026-04-13 20:37:12,455 - INFO - Dataset guardado: dataset_worten_componentes_completo.json (48 produtos)
+2026-04-13 20:37:12,455 - INFO - Próxima execução em 1h. A aguardar...
+2026-04-13 20:53:13,396 - INFO - Scheduler iniciado. Execução a cada 1h.
+
