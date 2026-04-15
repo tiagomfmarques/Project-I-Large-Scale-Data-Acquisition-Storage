@@ -1,0 +1,112 @@
+2026-04-15 10:27:27,134 - CRITICAL - Início de Scraping Crossref. 15/04/2026 - 10:27:27
+2026-04-15 10:27:27,134 - INFO - Ficheiro crossref_data/dataset_crossref_ai.json não encontrado. A iniciar um novo dataset.
+2026-04-15 10:27:27,134 - INFO - A solicitar página à API (Cursor: *...)
+2026-04-15 10:27:29,369 - INFO - Página processada com sucesso. A guardar progresso no disco...
+2026-04-15 10:27:30,878 - INFO - A solicitar página à API (Cursor: DnF1ZXJ5VG...)
+2026-04-15 10:27:32,927 - INFO - Página processada com sucesso. A guardar progresso no disco...
+2026-04-15 10:27:32,932 - INFO - O cursor não avançou. Fim da extração.
+2026-04-15 10:27:32,933 - CRITICAL - Fim de Scraping. 15/04/2026 - 10:27:32
+2026-04-15 10:27:32,933 - INFO - Resumo da Sessão:
+2026-04-15 10:27:32,933 - INFO -  -> Novos Adicionados: 200
+2026-04-15 10:27:32,933 - INFO -  -> Existentes Atualizados: 0
+2026-04-15 10:27:32,933 - INFO -  -> Total no Ficheiro JSON: 200
+2026-04-15 11:18:55,917 - CRITICAL - [extrair_e_guardar_crossref] - Sessão Iniciada: 15/04/2026 - 11:18:55
+2026-04-15 11:18:55,918 - INFO - [carregar_dataset_existente] - Dataset em memória: 459 registos. (I/O: 0.00s)
+2026-04-15 11:18:55,919 - DEBUG - [extrair_e_guardar_crossref] - A executar GET request. Cursor: *...
+2026-04-15 11:18:59,389 - DEBUG - [extrair_e_guardar_crossref] - Polite Pool Status -> Limite: 10 pedidos por 1s
+2026-04-15 11:18:59,395 - INFO - [extrair_e_guardar_crossref] - Página processada: 100 válidos, 0 descartados. Tempo: 3.48s
+2026-04-15 11:18:59,403 - DEBUG - [extrair_e_guardar_crossref] - Dump JSON concluído. I/O: 0.01s
+2026-04-15 11:19:00,609 - DEBUG - [extrair_e_guardar_crossref] - A executar GET request. Cursor: DnF1ZXJ5VGhlbkZ...
+2026-04-15 11:19:04,411 - DEBUG - [extrair_e_guardar_crossref] - Polite Pool Status -> Limite: 10 pedidos por 1s
+2026-04-15 11:19:04,415 - INFO - [extrair_e_guardar_crossref] - Página processada: 100 válidos, 0 descartados. Tempo: 3.81s
+2026-04-15 11:19:04,424 - DEBUG - [extrair_e_guardar_crossref] - Dump JSON concluído. I/O: 0.01s
+2026-04-15 11:19:04,425 - WARNING - [extrair_e_guardar_crossref] - Paragem da paginação: Cursor inalterado.
+2026-04-15 11:19:04,425 - CRITICAL - [extrair_e_guardar_crossref] - Sessão Terminada: 15/04/2026 - 11:19:04
+2026-04-15 11:19:04,425 - INFO - [extrair_e_guardar_crossref] - Métricas Finais -> Novos: 10 | Atualizados: 0 | Descartados: 0
+2026-04-15 11:19:04,425 - INFO - [extrair_e_guardar_crossref] - Volume do Dataset: 469 registos totais.
+2026-04-15 11:21:32,779 - CRITICAL - [extrair_e_guardar_crossref] - Sessão Iniciada: 15/04/2026 - 11:21:32
+2026-04-15 11:21:32,780 - INFO - [carregar_dataset_existente] - Dataset em memória: 469 registos. (I/O: 0.00s)
+2026-04-15 11:21:32,780 - DEBUG - [extrair_e_guardar_crossref] - A executar GET request. Cursor: *...
+2026-04-15 11:21:36,159 - DEBUG - [extrair_e_guardar_crossref] - Polite Pool Status -> Limite: 10 pedidos por 1s
+2026-04-15 11:21:36,161 - INFO - [extrair_e_guardar_crossref] - Página processada: 100 válidos, 0 descartados. Tempo: 3.38s
+2026-04-15 11:21:36,166 - DEBUG - [extrair_e_guardar_crossref] - Dump JSON concluído. I/O: 0.00s
+2026-04-15 11:21:37,371 - DEBUG - [extrair_e_guardar_crossref] - A executar GET request. Cursor: DnF1ZXJ5VGhlbkZ...
+2026-04-15 11:21:41,386 - DEBUG - [extrair_e_guardar_crossref] - Polite Pool Status -> Limite: 10 pedidos por 1s
+2026-04-15 11:21:41,388 - INFO - [extrair_e_guardar_crossref] - Página processada: 100 válidos, 0 descartados. Tempo: 4.02s
+2026-04-15 11:21:41,400 - DEBUG - [extrair_e_guardar_crossref] - Dump JSON concluído. I/O: 0.01s
+2026-04-15 11:21:41,401 - WARNING - [extrair_e_guardar_crossref] - Paragem da paginação: Cursor inalterado.
+2026-04-15 11:21:41,401 - CRITICAL - [extrair_e_guardar_crossref] - Sessão Terminada: 15/04/2026 - 11:21:41
+2026-04-15 11:21:41,401 - INFO - [extrair_e_guardar_crossref] - Métricas Finais -> Novos: 200 | Atualizados: 0 | Descartados: 0
+2026-04-15 11:21:41,401 - INFO - [extrair_e_guardar_crossref] - Volume do Dataset: 669 registos totais.
+2026-04-15 11:22:39,935 - CRITICAL - [extrair_e_guardar_crossref] - Sessão Iniciada: 15/04/2026 - 11:22:39
+2026-04-15 11:22:39,936 - INFO - [carregar_dataset_existente] - Dataset em memória: 669 registos. (I/O: 0.00s)
+2026-04-15 11:22:39,936 - DEBUG - [extrair_e_guardar_crossref] - A executar GET request. Cursor: *...
+2026-04-15 11:22:43,230 - DEBUG - [extrair_e_guardar_crossref] - Polite Pool Status -> Limite: 10 pedidos por 1s
+2026-04-15 11:22:43,232 - INFO - [extrair_e_guardar_crossref] - Página processada: 100 válidos, 0 descartados. Tempo: 3.30s
+2026-04-15 11:22:43,241 - DEBUG - [extrair_e_guardar_crossref] - Dump JSON concluído. I/O: 0.01s
+2026-04-15 11:22:44,446 - DEBUG - [extrair_e_guardar_crossref] - A executar GET request. Cursor: DnF1ZXJ5VGhlbkZldGNoJAAAAADtdPfoFlV1U25DZFJ2U2JLRVVuNjdsaVhxWkEAAAAA7XT36RZVdVNuQ2RSdlNiS0VVbjY3bGlYcVpBAAAAAO2WkHQWTWpkc1RvTlBTMUdQeGFHUVJGLTgwZwAAAADzoDtOFkNTcEFMQXBqUlotS2NVR2U1ZnBpeWcAAAAA-vHTyxZnOGNRZlJTclJBZWtPYm04eDVPWEFBAAAAAPH-sLQWRTVFSzRuOEZTNmVvMF8yOXVKVlJvQQAAAADzoDtLFkNTcEFMQXBqUlotS2NVR2U1ZnBpeWcAAAAA7ZaQcxZNamRzVG9OUFMxR1B4YUdRUkYtODBnAAAAAO7zSAYWdXZSSjM5a0VTajI2bnA2N0tJVGdZZwAAAADzoDtMFkNTcEFMQXBqUlotS2NVR2U1ZnBpeWcAAAAA9M0b4hZPWmJKeEJxRlNnUy1sZ2pKd0d3THN3AAAAAO90TEIWTkU2UEFBOTFTcjJ5U1M3WkM5b21QUQAAAADtdPfqFlV1U25DZFJ2U2JLRVVuNjdsaVhxWkEAAAAA9S42QRZWZWc5bFc5dFRIU2llSC00NUR3bzFnAAAAAPSNISsWQWhSeXczSFhUNWVPdVVZMC1ZZ3RFZwAAAAD1LjZCFlZlZzlsVzl0VEhTaWVILTQ1RHdvMWcAAAAA9I0hKBZBaFJ5dzNIWFQ1ZU91VVkwLVlndEVnAAAAAO7zSAcWdXZSSjM5a0VTajI2bnA2N0tJVGdZZwAAAADvdExDFk5FNlBBQTkxU3IyeVNTN1pDOW9tUFEAAAAA73RMRBZORTZQQUE5MVNyMnlTUzdaQzlvbVBRAAAAAO2WkHUWTWpkc1RvTlBTMUdQeGFHUVJGLTgwZwAAAAD00YeCFmVFaGZqREs1VFhpRDVrNjhxWmxXZGcAAAAA8f6wtRZFNUVLNG44RlM2ZW8wXzI5dUpWUm9BAAAAAPqEW3sWb0FYVXlYV0hUbzJqdy1ua2pYM2VyUQAAAADzoDtNFkNTcEFMQXBqUlotS2NVR2U1ZnBpeWcAAAAA7vNICRZ1dlJKMzlrRVNqMjZucDY3S0lUZ1lnAAAAAO7zSAgWdXZSSjM5a0VTajI2bnA2N0tJVGdZZwAAAAD1LjZEFlZlZzlsVzl0VEhTaWVILTQ1RHdvMWcAAAAA9QJU7RYyem9obE83aFRMNnZLRjlTbXFNWkh3AAAAAPqEW3wWb0FYVXlYV0hUbzJqdy1ua2pYM2VyUQAAAADtdPfrFlV1U25DZFJ2U2JLRVVuNjdsaVhxWkEAAAAA9I0hKRZBaFJ5dzNIWFQ1ZU91VVkwLVlndEVnAAAAAPp9VwYWN085TWY0SHJReld1bHh5SmdoTWlkZwAAAAD1LjZDFlZlZzlsVzl0VEhTaWVILTQ1RHdvMWcAAAAA9I0hKhZBaFJ5dzNIWFQ1ZU91VVkwLVlndEVnAAAAAO2WkHYWTWpkc1RvTlBTMUdQeGFHUVJGLTgwZw==...
+2026-04-15 11:22:46,859 - DEBUG - [extrair_e_guardar_crossref] - Polite Pool Status -> Limite: 10 pedidos por 1s
+2026-04-15 11:22:46,861 - INFO - [extrair_e_guardar_crossref] - Página processada: 100 válidos, 0 descartados. Tempo: 2.42s
+2026-04-15 11:22:46,870 - DEBUG - [extrair_e_guardar_crossref] - Dump JSON concluído. I/O: 0.01s
+2026-04-15 11:22:46,870 - WARNING - [extrair_e_guardar_crossref] - Paragem da paginação: Cursor inalterado.
+2026-04-15 11:22:46,870 - CRITICAL - [extrair_e_guardar_crossref] - Sessão Terminada: 15/04/2026 - 11:22:46
+2026-04-15 11:22:46,870 - INFO - [extrair_e_guardar_crossref] - Métricas Finais -> Novos: 3 | Atualizados: 0 | Descartados: 0
+2026-04-15 11:22:46,870 - INFO - [extrair_e_guardar_crossref] - Volume do Dataset: 672 registos totais.
+2026-04-15 11:24:26,355 - CRITICAL - [extrair_e_guardar_crossref] - Sessão Iniciada: 15/04/2026 - 11:24:26
+2026-04-15 11:24:26,357 - INFO - [carregar_dataset_existente] - Dataset em memória: 672 registos. (I/O: 0.00s)
+2026-04-15 11:24:26,357 - DEBUG - [extrair_e_guardar_crossref] - A executar GET request. Cursor: *...
+2026-04-15 11:24:29,209 - DEBUG - [extrair_e_guardar_crossref] - Polite Pool Status -> Limite: 10 pedidos por 1s
+2026-04-15 11:24:29,212 - INFO - [extrair_e_guardar_crossref] - Página processada: 100 válidos, 0 descartados. Tempo: 2.86s
+2026-04-15 11:24:29,222 - DEBUG - [extrair_e_guardar_crossref] - Dump JSON concluído. I/O: 0.01s
+2026-04-15 11:24:30,427 - DEBUG - [extrair_e_guardar_crossref] - A executar GET request. Cursor: DnF1ZXJ5VGhlbkZldGNoJAAAAAD6fcpJFjdPOU1mNEhyUXpXdWx4eUpnaE1pZGcAAAAA-vJH-hZnOGNRZlJTclJBZWtPYm04eDVPWEFBAAAAAPt0hVkWU3Y0WTNPQTNTSE9qazFlTGtEclZCdwAAAAD00fZqFmVFaGZqREs1VFhpRDVrNjhxWmxXZGcAAAAA73S0eRZORTZQQUE5MVNyMnlTUzdaQzlvbVBRAAAAAPH_G6AWRTVFSzRuOEZTNmVvMF8yOXVKVlJvQQAAAAD00fZoFmVFaGZqREs1VFhpRDVrNjhxWmxXZGcAAAAA7Zb02RZNamRzVG9OUFMxR1B4YUdRUkYtODBnAAAAAPH_G6EWRTVFSzRuOEZTNmVvMF8yOXVKVlJvQQAAAAD0zYr9Fk9aYkp4QnFGU2dTLWxnakp3R3dMc3cAAAAA9M2K-hZPWmJKeEJxRlNnUy1sZ2pKd0d3THN3AAAAAO90tHoWTkU2UEFBOTFTcjJ5U1M3WkM5b21QUQAAAAD66w1XFnhuLTRMT3RMU1h5Z1ppX2E5dV9qUUEAAAAA9QLEJhYyem9obE83aFRMNnZLRjlTbXFNWkh3AAAAAPVYDbsWWi1aZUdJN1NRQUdVczNBcGF6X2RaUQAAAAD1AsQkFjJ6b2hsTzdoVEw2dktGOVNtcU1aSHcAAAAA9VgNuRZaLVplR0k3U1FBR1VzM0FwYXpfZFpRAAAAAO7zrYgWdXZSSjM5a0VTajI2bnA2N0tJVGdZZwAAAADvdLR3Fk5FNlBBQTkxU3IyeVNTN1pDOW9tUFEAAAAA73S0eBZORTZQQUE5MVNyMnlTUzdaQzlvbVBRAAAAAO2W9NgWTWpkc1RvTlBTMUdQeGFHUVJGLTgwZwAAAAD00fZnFmVFaGZqREs1VFhpRDVrNjhxWmxXZGcAAAAA8f8bohZFNUVLNG44RlM2ZW8wXzI5dUpWUm9BAAAAAPH_G58WRTVFSzRuOEZTNmVvMF8yOXVKVlJvQQAAAAD0zYr7Fk9aYkp4QnFGU2dTLWxnakp3R3dMc3cAAAAA-3SFWBZTdjRZM09BM1NIT2prMWVMa0RyVkJ3AAAAAPrrDVgWeG4tNExPdExTWHlnWmlfYTl1X2pRQQAAAAD0zYr8Fk9aYkp4QnFGU2dTLWxnakp3R3dMc3cAAAAA9QLEKxYyem9obE83aFRMNnZLRjlTbXFNWkh3AAAAAPVYDboWWi1aZUdJN1NRQUdVczNBcGF6X2RaUQAAAADtdVyoFlV1U25DZFJ2U2JLRVVuNjdsaVhxWkEAAAAA9QLEJRYyem9obE83aFRMNnZLRjlTbXFNWkh3AAAAAPVYDbwWWi1aZUdJN1NRQUdVczNBcGF6X2RaUQAAAAD00fZpFmVFaGZqREs1VFhpRDVrNjhxWmxXZGcAAAAA9I2KARZBaFJ5dzNIWFQ1ZU91VVkwLVlndEVnAAAAAP686FQWUlMtZjR5aVZROGlxUThvMURHandkUQ==...
+2026-04-15 11:24:33,511 - DEBUG - [extrair_e_guardar_crossref] - Polite Pool Status -> Limite: 10 pedidos por 1s
+2026-04-15 11:24:33,513 - INFO - [extrair_e_guardar_crossref] - Página processada: 100 válidos, 0 descartados. Tempo: 3.09s
+2026-04-15 11:24:33,524 - DEBUG - [extrair_e_guardar_crossref] - Dump JSON concluído. I/O: 0.01s
+2026-04-15 11:24:33,525 - WARNING - [extrair_e_guardar_crossref] - Paragem da paginação: Cursor inalterado.
+2026-04-15 11:24:33,525 - CRITICAL - [extrair_e_guardar_crossref] - Sessão Terminada: 15/04/2026 - 11:24:33
+2026-04-15 11:24:33,525 - INFO - [extrair_e_guardar_crossref] - Métricas Finais -> Novos: 0 | Atualizados: 0 | Descartados: 0
+2026-04-15 11:24:33,525 - INFO - [extrair_e_guardar_crossref] - Volume do Dataset: 672 registos totais.
+2026-04-15 11:27:17,769 - CRITICAL - [extrair_e_guardar_crossref] - Sessão Iniciada: 15/04/2026 - 11:27:17
+2026-04-15 11:27:17,770 - INFO - [carregar_dataset_existente] - Dataset em memória: 672 registos. (I/O: 0.00s)
+2026-04-15 11:27:17,770 - DEBUG - [extrair_e_guardar_crossref] - A executar GET request. Cursor: *...
+2026-04-15 11:27:20,417 - DEBUG - [extrair_e_guardar_crossref] - Polite Pool Status -> Limite: 10 pedidos por 1s
+2026-04-15 11:27:20,423 - INFO - [extrair_e_guardar_crossref] - Página processada: 100 válidos, 0 descartados. Tempo: 2.65s
+2026-04-15 11:27:20,437 - DEBUG - [extrair_e_guardar_crossref] - Dump JSON concluído. I/O: 0.01s
+2026-04-15 11:27:21,638 - DEBUG - [extrair_e_guardar_crossref] - A executar GET request. Cursor: DnF1ZXJ5VGhlbkZldGNoJAAAAADtdgETFlV1U25DZFJ2U2JLRVVuNjdsaVhxWkEAAAAA7XYBEhZVdVNuQ2RSdlNiS0VVbjY3bGlYcVpBAAAAAO2XmMkWTWpkc1RvTlBTMUdQeGFHUVJGLTgwZwAAAADzoU4sFkNTcEFMQXBqUlotS2NVR2U1ZnBpeWcAAAAA73VedxZORTZQQUE5MVNyMnlTUzdaQzlvbVBRAAAAAPH_yLIWRTVFSzRuOEZTNmVvMF8yOXVKVlJvQQAAAADzoU4rFkNTcEFMQXBqUlotS2NVR2U1ZnBpeWcAAAAA7ZeYxxZNamRzVG9OUFMxR1B4YUdRUkYtODBnAAAAAO70UoAWdXZSSjM5a0VTajI2bnA2N0tJVGdZZwAAAADzoU4uFkNTcEFMQXBqUlotS2NVR2U1ZnBpeWcAAAAA-uvDyhZ4bi00TE90TFNYeWdaaV9hOXVfalFBAAAAAPqFg-IWb0FYVXlYV0hUbzJqdy1ua2pYM2VyUQAAAADtdgEUFlV1U25DZFJ2U2JLRVVuNjdsaVhxWkEAAAAA9S9KIxZWZWc5bFc5dFRIU2llSC00NUR3bzFnAAAAAPSOMpYWQWhSeXczSFhUNWVPdVVZMC1ZZ3RFZwAAAAD1L0okFlZlZzlsVzl0VEhTaWVILTQ1RHdvMWcAAAAA9I4ymBZBaFJ5dzNIWFQ1ZU91VVkwLVlndEVnAAAAAO70UoEWdXZSSjM5a0VTajI2bnA2N0tJVGdZZwAAAADvdV54Fk5FNlBBQTkxU3IyeVNTN1pDOW9tUFEAAAAA_r2hOhZSUy1mNHlpVlE4aXFROG8xREdqd2RRAAAAAO2XmMoWTWpkc1RvTlBTMUdQeGFHUVJGLTgwZwAAAAD00qiOFmVFaGZqREs1VFhpRDVrNjhxWmxXZGcAAAAA8f_IsxZFNUVLNG44RlM2ZW8wXzI5dUpWUm9BAAAAAPH_yLEWRTVFSzRuOEZTNmVvMF8yOXVKVlJvQQAAAADzoU4tFkNTcEFMQXBqUlotS2NVR2U1ZnBpeWcAAAAA7vRSgxZ1dlJKMzlrRVNqMjZucDY3S0lUZ1lnAAAAAO70UoIWdXZSSjM5a0VTajI2bnA2N0tJVGdZZwAAAAD1L0olFlZlZzlsVzl0VEhTaWVILTQ1RHdvMWcAAAAA-uvDyxZ4bi00TE90TFNYeWdaaV9hOXVfalFBAAAAAPVYviAWWi1aZUdJN1NRQUdVczNBcGF6X2RaUQAAAADtdgEVFlV1U25DZFJ2U2JLRVVuNjdsaVhxWkEAAAAA9I4ylxZBaFJ5dzNIWFQ1ZU91VVkwLVlndEVnAAAAAPVYviEWWi1aZUdJN1NRQUdVczNBcGF6X2RaUQAAAAD1L0omFlZlZzlsVzl0VEhTaWVILTQ1RHdvMWcAAAAA9I4ylRZBaFJ5dzNIWFQ1ZU91VVkwLVlndEVnAAAAAO2XmMgWTWpkc1RvTlBTMUdQeGFHUVJGLTgwZw==...
+2026-04-15 11:27:24,962 - DEBUG - [extrair_e_guardar_crossref] - Polite Pool Status -> Limite: 10 pedidos por 1s
+2026-04-15 11:27:24,966 - INFO - [extrair_e_guardar_crossref] - Página processada: 100 válidos, 0 descartados. Tempo: 3.33s
+2026-04-15 11:27:24,978 - DEBUG - [extrair_e_guardar_crossref] - Dump JSON concluído. I/O: 0.01s
+2026-04-15 11:27:24,979 - WARNING - [extrair_e_guardar_crossref] - Paragem da paginação: Cursor inalterado.
+2026-04-15 11:27:24,979 - CRITICAL - [extrair_e_guardar_crossref] - Sessão Terminada: 15/04/2026 - 11:27:24
+2026-04-15 11:27:24,979 - INFO - [extrair_e_guardar_crossref] - Métricas Finais -> Novos: 72 | Atualizados: 0 | Descartados: 0
+2026-04-15 11:27:24,979 - INFO - [extrair_e_guardar_crossref] - Volume do Dataset: 744 registos totais.
+2026-04-15 11:30:13,542 - CRITICAL - Serviço de Extração Iniciado: 15/04/2026 - 11:30:13
+2026-04-15 11:30:13,543 - CRITICAL - A iniciar CICLO #1 | Dataset atual: 744 registos
+2026-04-15 11:30:13,543 - INFO - A investigar domínio: Artificial Intelligence
+2026-04-15 11:30:22,859 - INFO - Tema concluído. +112 novos. Pausa de 5 segundos...
+2026-04-15 11:30:27,864 - INFO - A investigar domínio: Machine Learning
+2026-04-15 11:30:35,099 - INFO - Tema concluído. +108 novos. Pausa de 5 segundos...
+2026-04-15 11:30:40,104 - INFO - A investigar domínio: Retrieval Augmented Generation
+2026-04-15 11:30:48,002 - INFO - Tema concluído. +183 novos. Pausa de 5 segundos...
+2026-04-15 11:30:53,007 - INFO - A investigar domínio: Autonomous Agents
+2026-04-15 11:31:01,169 - INFO - Tema concluído. +190 novos. Pausa de 5 segundos...
+2026-04-15 11:31:06,174 - INFO - A investigar domínio: Information Retrieval
+2026-04-15 11:31:13,297 - INFO - Tema concluído. +169 novos. Pausa de 5 segundos...
+2026-04-15 11:31:18,303 - CRITICAL - Fim do CICLO #1. Total JSON: 1506 (+762 novos)
+2026-04-15 11:31:18,303 - INFO - A entrar em modo de repouso. Próxima extração em 30 minutos (Aperta CTRL+C para parar).
+2026-04-15 11:32:15,190 - CRITICAL - Serviço interrompido manualmente pelo utilizador (CTRL+C).
+2026-04-15 15:34:28,739 - CRITICAL - Serviço Iniciado: 15/04/2026 - 15:34:28
+2026-04-15 15:34:28,739 - CRITICAL - A iniciar CICLO #1 | Dataset atual: 0 registos
+2026-04-15 15:34:28,739 - INFO - A investigar domínio: Artificial Intelligence
+2026-04-15 15:34:35,802 - INFO - Tema concluído. +200 novos. Pausa de 5 segundos...
+2026-04-15 15:34:40,802 - INFO - A investigar domínio: Machine Learning
+2026-04-15 15:34:46,347 - INFO - Tema concluído. +197 novos. Pausa de 5 segundos...
+2026-04-15 15:34:51,347 - INFO - A investigar domínio: Retrieval Augmented Generation
+2026-04-15 15:34:57,095 - INFO - Tema concluído. +193 novos. Pausa de 5 segundos...
+2026-04-15 15:35:02,095 - INFO - A investigar domínio: Autonomous Agents
+2026-04-15 15:35:08,822 - INFO - Tema concluído. +198 novos. Pausa de 5 segundos...
+2026-04-15 15:35:13,822 - INFO - A investigar domínio: Information Retrieval
+2026-04-15 15:35:20,058 - INFO - Tema concluído. +174 novos. Pausa de 5 segundos...
+2026-04-15 15:35:25,058 - CRITICAL - Fim do CICLO #1. Total JSON: 962 (+962 novos)
+2026-04-15 15:35:25,058 - INFO - Modo de repouso. Próxima extração em 30 min. (CTRL+C para parar).
+2026-04-15 15:36:47,518 - CRITICAL - Serviço interrompido (CTRL+C).
