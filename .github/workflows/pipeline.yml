@@ -1,0 +1,41 @@
+name: Automacao Diaria de Scraping (20h)
+
+on:
+  schedule:
+    - cron: '0 20 * * *' # Executa diariamente às 20:00 UTC
+  workflow_dispatch:
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout do repositorio
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Executar Pipeline
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+        run: |
+          python src/run_pipeline.py
+
+      - name: Fazer Commit dos Dados e Logs
+        run: |
+          git config --global user.name "GitHub Action Scraper"
+          git config --global user.email "action@github.com"
+          git add data/scientific_articles_data.json
+          git add logs/logs.log
+          git commit -m "Auto-update: Novos artigos [$(date +'%Y-%m-%d')]" || echo "Sem novos artigos para fazer commit"
+          git push

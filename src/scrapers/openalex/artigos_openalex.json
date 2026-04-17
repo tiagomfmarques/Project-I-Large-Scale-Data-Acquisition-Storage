@@ -1,0 +1,116 @@
+{
+  "articles": [
+    {
+      "id_api": "openalex_api",
+      "url": "http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=008594330&sequence=000002&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA",
+      "website": "CERN Document Server (European Organization for Nuclear Research)",
+      "theme": "Natural Language Processing",
+      "title": "Foundations of statistical natural language processing",
+      "abstract": "Statistical approaches to processing natural language text have become dominant in recent years. This foundational text is the first comprehensive introduction to statistical natural language processing (NLP) to appear. The book contains all the theory and algorithms needed for building NLP tools. It provides broad but rigorous coverage of mathematical and linguistic foundations, as well as detailed discussion of statistical methods, allowing students and researchers to construct their own implementations. The book covers collocation finding, word sense disambiguation, probabilistic parsing, information retrieval, and other applications.",
+      "authors": [
+        "Christopher D. Manning",
+        "Hinrich Schütze"
+      ],
+      "year_publicacion": "1999",
+      "cites": 9992,
+      "timestamp": "2026-04-15 15:38:56"
+    },
+    {
+      "id_api": "openalex_api",
+      "url": "https://doi.org/10.5860/choice.46-2715",
+      "website": "Choice Reviews Online",
+      "theme": "Information Retrieval",
+      "title": "Introduction to information retrieval",
+      "abstract": "Class-tested and coherent, this textbook teaches classical and web information retrieval, including web search and the related areas of text classification and text clustering from basic concepts. It gives an up-to-date treatment of all aspects of the design and implementation of systems for gathering, indexing, and searching documents; methods for evaluating systems; and an introduction to the use of machine learning methods on text collections. All the important ideas are explained using examples and figures, making it perfect for introductory courses in information retrieval for advanced undergraduates and graduate students in computer science. Based on feedback from extensive classroom experience, the book has been carefully structured in order to make teaching more natural and effective. Slides and additional exercises (with solutions for lecturers) are also available through the book's supporting website to help course instructors prepare their lectures.",
+      "authors": [
+        "Manning, Christopher D",
+        "Raghavan, Prabhakar",
+        "Schütze, Hinrich"
+      ],
+      "year_publicacion": "2009",
+      "cites": 12580,
+      "timestamp": "2026-04-15 15:38:58"
+    },
+    {
+      "id_api": "openalex_api",
+      "url": "https://doi.org/10.5860/choice.33-1577",
+      "website": "Choice Reviews Online",
+      "theme": "Artificial Intelligence",
+      "title": "Artificial intelligence: a modern approach",
+      "abstract": "The long-anticipated revision of this #1 selling book offers the most comprehensive, state of the art introduction to the theory and practice of artificial intelligence for modern applications. Intelligent Agents. Solving Problems by Searching. Informed Search Methods. Game Playing. Agents that Reason Logically. First-order Logic. Building a Knowledge Base. Inference in First-Order Logic. Logical Reasoning Systems. Practical Planning. Planning and Acting. Uncertainty. Probabilistic Reasoning Systems. Making Simple Decisions. Making Complex Decisions. Learning from Observations. Learning with Neural Networks. Reinforcement Learning. Knowledge in Learning. Agents that Communicate. Practical Communication in English. Perception. Robotics. For computer professionals, linguists, and cognitive scientists interested in artificial intelligence.",
+      "authors": [
+        "Dr. Anil Kumar",
+        "Sivasubramanian Balasubramanian",
+        "Dr. Haewon Byeon",
+        "Prof. Ganesh Vasudeo Manerkar"
+      ],
+      "year_publicacion": "1995",
+      "cites": 22244,
+      "timestamp": "2026-04-15 15:39:00"
+    },
+    {
+      "id_api": "openalex_api",
+      "url": "https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+      "website": "Nao identificado",
+      "theme": "Natural Language Processing",
+      "title": "Transformers: State-of-the-Art Natural Language Processing",
+      "abstract": "Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander Rush. Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations. 2020.",
+      "authors": [
+        "Thomas Wolf",
+        "Lysandre Debut",
+        "Victor Sanh",
+        "Julien Chaumond",
+        "Clément Delangue",
+        "Anthony Moi",
+        "Pierric Cistac",
+        "Tim Rault",
+        "Rémi Louf",
+        "Morgan Funtowicz",
+        "Joe Davison",
+        "Sam Shleifer",
+        "Patrick von Platen",
+        "Clara Ma",
+        "Yacine Jernite",
+        "Julien Plu",
+        "Canwen Xu",
+        "Teven Le Scao",
+        "Sylvain Gugger",
+        "Mariama Drame",
+        "Quentin Lhoest",
+        "Alexander M. Rush"
+      ],
+      "year_publicacion": "2020",
+      "cites": 7825,
+      "timestamp": "2026-04-15 17:29:03"
+    },
+    {
+      "id_api": "openalex_api",
+      "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.27.7690",
+      "website": "CERN Document Server (European Organization for Nuclear Research)",
+      "theme": "Information Retrieval",
+      "title": "Modern Information Retrieval",
+      "abstract": "Information retrieval (IR) has changed considerably in the last years with the expansion of the Web (World Wide Web) and the advent of modern and inexpensive graphical user interfaces and mass storage devices. As a result, traditional IR textbooks have become quite out-of-date which has led to the introduction of new IR books recently. Nevertheless, we believe that there is still great need of a book that approaches the field in a rigorous and complete way from a computer-science perspective (in opposition to a user-centered perspective). This book is an effort to partially fulfill this gap and should be useful for a first course on information retrieval as well as for a graduate course on the topic. The book",
+      "authors": [
+        "Ricardo Baeza‐Yates",
+        "Berthier Ribeiro‐Neto"
+      ],
+      "year_publicacion": "1999",
+      "cites": 11571,
+      "timestamp": "2026-04-15 17:29:04"
+    },
+    {
+      "id_api": "openalex_api",
+      "url": "https://doi.org/10.1016/0004-3702(96)00007-0",
+      "website": "Artificial Intelligence",
+      "theme": "Artificial Intelligence",
+      "title": "Artificial intelligence: A modern approach",
+      "abstract": "",
+      "authors": [
+        "Nils J. Nilsson"
+      ],
+      "year_publicacion": "1996",
+      "cites": 10690,
+      "timestamp": "2026-04-15 17:29:06"
+    }
+  ]
+}

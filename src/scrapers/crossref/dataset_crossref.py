@@ -5,7 +5,7 @@ import webbrowser
 
 import pandas as pd
 
-json_path = "src/data/crossref/dataset_crossref_ai.json"
+json_path = "../../../data/crossref/dataset_crossref_ai.json"
 if not os.path.exists(json_path):
     print(f"Erro: O ficheiro {json_path} não foi encontrado.")
     exit()
@@ -178,7 +178,7 @@ html_template = f"""
 </html>
 """
 
-ficheiro_html = "src/data/crossref/dataset_crossref_visualizacao.html"
+ficheiro_html = "../../data/crossref/dataset_crossref_visualizacao.html"
 with open(ficheiro_html, "w", encoding="utf-8") as f:
     f.write(html_template)
 
