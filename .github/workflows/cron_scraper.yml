@@ -2,7 +2,7 @@ name: Automacao Diaria de Scraping
 
 on:
   schedule:
-    - cron: '0 20 * * *'
+    - cron: '0 20 * * *' # Executa diariamente às 20:00 UTC
   workflow_dispatch:
 
 jobs:

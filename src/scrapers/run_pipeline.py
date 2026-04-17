@@ -3,8 +3,7 @@ import os
 import logging
 import sys
 import time
-
-
+import random
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from config import settings
 from src.scrapers.openalex.openalex_scraper import extrair_openalex
@@ -28,6 +27,7 @@ file_handler = logging.FileHandler(settings.LOG_PATH, encoding="utf-8")
 file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 
+# Função para salvar os artigos extraídos no arquivo JSON, garantindo que os dados existentes sejam mantidos
 def guardar_dados(novos_artigos):
     if not novos_artigos:
         return
@@ -46,11 +46,11 @@ def guardar_dados(novos_artigos):
     with open(settings.DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(dados_finais, f, ensure_ascii=False, indent=2)
 
-
+# Função principal que executa o pipeline completo de extração, armazenamento e logging
 def executar_pipeline():
 
     tempo_inicio = time.time()
-    logger.info("Processo de extracao iniciado.")
+    logger.info("Processo de extração iniciado.")
 
     existing_ids = set()
     if os.path.exists(settings.DATA_PATH):
@@ -71,12 +71,16 @@ def executar_pipeline():
         if artigos_oa:
             guardar_dados(artigos_oa)
             total_artigos_sessao += len(artigos_oa)
+        atraso = random.uniform(1, 10)
+        time.sleep(atraso)
 
     for query in settings.QUERIES:
         artigos_cr = extrair_crossref(query, existing_ids)
         if artigos_cr:
             guardar_dados(artigos_cr)
             total_artigos_sessao += len(artigos_cr)
+        atraso = random.uniform(1, 10)
+        time.sleep(atraso)
 
     tempo_fim = time.time()
     duracao_segundos = tempo_fim - tempo_inicio

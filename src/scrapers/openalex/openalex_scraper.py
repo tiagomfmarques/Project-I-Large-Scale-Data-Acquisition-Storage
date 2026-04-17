@@ -4,14 +4,12 @@ import logging
 from datetime import datetime
 import sys
 import os
-
-
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from config import settings
 
 logger = logging.getLogger("Pipeline")
 
-
+# Extrai artigos do OpenAlex com base na query e nos identificadores existentes
 def extrair_openalex(query, existing_identifiers):
     theme_formatted = query.title()
     cursor = '*'
@@ -75,7 +73,6 @@ def extrair_openalex(query, existing_identifiers):
             existing_identifiers.add((title_norm, authors_norm))
             count_da_query += 1
 
-            # Log individual formatado
             logger.info(f"Artigo adicionado. API: OpenAlex | Tema: {theme_formatted} | URL: {article_url}")
 
         cursor = data.get("meta", {}).get("next_cursor")

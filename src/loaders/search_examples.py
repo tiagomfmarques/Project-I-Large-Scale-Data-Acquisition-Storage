@@ -3,7 +3,7 @@ from elasticsearch import Elasticsearch
 es = Elasticsearch("http://localhost:9200")
 INDEX_NAME = "artigos_cientificos"
 
-
+# Função para formatar e exibir os resultados de forma legível
 def formatar_resultado(hit):
 
     s = hit['_source']
@@ -16,7 +16,7 @@ def formatar_resultado(hit):
     print(f"Website/URL:  {s.get('website', 'N/A')} ({s.get('url', 'N/A')})")
     print(f"Relevância (Score): {hit['_score']}")
 
-
+# Função para realizar uma pesquisa geral com fuzziness em múltiplos campos
 def pesquisa_geral(termo):
 
     query = {
@@ -30,7 +30,7 @@ def pesquisa_geral(termo):
     }
     return es.search(index=INDEX_NAME, body=query, size=10)
 
-
+# Função para realizar uma pesquisa específica em um campo, usando "term" para ano e "match" para os outros campos
 def pesquisa_especifica(campo, valor):
 
     tipo_query = "term" if campo == "year_publicacion" else "match"
@@ -42,7 +42,7 @@ def pesquisa_especifica(campo, valor):
     }
     return es.search(index=INDEX_NAME, body=query, size=10)
 
-
+# Menu interativo para o usuário escolher o tipo de pesquisa e inserir os termos de busca
 def menu():
     while True:
         print("\nSistema de Pesquisa de Artigos Científicos\n")
@@ -84,7 +84,7 @@ def menu():
             for hit in resultados['hits']['hits']:
                 formatar_resultado(hit)
 
-
+# Ponto de entrada do programa, verificando a conexão com o Elasticsearch antes de iniciar o menu
 if __name__ == "__main__":
     if es.ping():
         menu()

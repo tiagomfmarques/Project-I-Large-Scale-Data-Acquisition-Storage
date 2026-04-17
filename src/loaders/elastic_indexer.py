@@ -2,13 +2,10 @@ import json
 import os
 import sys
 from elasticsearch import Elasticsearch, helpers
-
-# Garante que o Python encontra as pastas do projeto
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from config import settings
 
-# 1. Conexão com o Elasticsearch
-# Adiciona o parâmetro compatibility_mode=True
+# Configuração do Elasticsearch
 es = Elasticsearch(
     "http://localhost:9200",
     request_timeout=60,
@@ -17,6 +14,7 @@ es = Elasticsearch(
 )
 INDEX_NAME = "artigos_cientificos"
 
+# Carregar dados do arquivo JSON
 def carregar_dados_no_elastic():
     if not os.path.exists(settings.DATA_PATH):
         print(f"Erro: Ficheiro {settings.DATA_PATH} nao encontrado.")
@@ -29,7 +27,7 @@ def carregar_dados_no_elastic():
 
     print(f"{len(artigos)} artigos para indexacao")
 
-    # 2. Gerador para Bulk Indexing (Eficiencia de memoria)
+    # Gerar ações para o bulk indexing
     def gerar_acoes():
         for artigo in artigos:
             yield {
@@ -37,7 +35,7 @@ def carregar_dados_no_elastic():
                 "_source": artigo
             }
 
-    # 3. Enviar para o Elasticsearch
+    # Enviar para o Elasticsearch
     try:
         success, failed = helpers.bulk(es, gerar_acoes())
         print(f"Sucesso: {success} artigos indexados.")
