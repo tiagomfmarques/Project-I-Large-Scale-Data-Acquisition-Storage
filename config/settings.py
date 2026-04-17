@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-DATA_PATH = os.path.join(BASE_DIR, "data", "scientific_articles_data.json")
+DATA_PATH = os.path.join(BASE_DIR, "data", "raw", "scientific_articles_data.json")
 LOG_PATH = os.path.join(BASE_DIR, "logs", "logs.log")
 
 QUERIES = [
