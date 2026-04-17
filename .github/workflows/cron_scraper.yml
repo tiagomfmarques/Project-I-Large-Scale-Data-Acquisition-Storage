@@ -32,7 +32,6 @@ jobs:
 
           PYTHONPATH: ${{ github.workspace }}
         run: |
-          # Corre o script a partir da raiz para garantir que os caminhos em settings.py funcionam
           python src/scrapers/run_pipeline.py
 
       - name: Fazer Commit dos Dados e Logs
