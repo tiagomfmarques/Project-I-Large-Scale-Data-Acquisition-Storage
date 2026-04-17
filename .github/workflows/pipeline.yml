@@ -2,7 +2,7 @@ name: Automacao Diaria de Scraping (20h)
 
 on:
   schedule:
-    - cron: '0 20 * * *' # Executa diariamente às 20:00 UTC
+    - cron: '0 20 * * *'
   workflow_dispatch:
 
 jobs:
@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout do repositorio
         uses: actions/checkout@v3
+        with:
+          lfs: true
 
       - name: Configurar Python
         uses: actions/setup-python@v4
@@ -35,7 +37,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action Scraper"
           git config --global user.email "action@github.com"
-          git add data/scientific_articles_data.json
+          git add data/raw/scientific_articles_data.json
           git add logs/logs.log
           git commit -m "Auto-update: Novos artigos [$(date +'%Y-%m-%d')]" || echo "Sem novos artigos para fazer commit"
           git push
