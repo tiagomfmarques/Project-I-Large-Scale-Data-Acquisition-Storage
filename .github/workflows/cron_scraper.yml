@@ -1,4 +1,4 @@
-name: Automacao Diaria de Scraping (20h)
+name: Automacao Diaria de Scraping
 
 on:
   schedule:
@@ -13,12 +13,12 @@ jobs:
 
     steps:
       - name: Checkout do repositorio
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           lfs: true
 
       - name: Configurar Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
@@ -29,15 +29,18 @@ jobs:
 
       - name: Executar Pipeline
         env:
+
           PYTHONPATH: ${{ github.workspace }}
         run: |
+          # Corre o script a partir da raiz para garantir que os caminhos em settings.py funcionam
           python src/run_pipeline.py
 
       - name: Fazer Commit dos Dados e Logs
         run: |
           git config --global user.name "GitHub Action Scraper"
           git config --global user.email "action@github.com"
+          # Adiciona as pastas para garantir que novos ficheiros sao detetados
           git add data/raw/scientific_articles_data.json
           git add logs/logs.log
-          git commit -m "Auto-update: Novos artigos [$(date +'%Y-%m-%d')]" || echo "Sem novos artigos para fazer commit"
+          git commit -m "Auto-update: Novos artigos [$(date +'%Y-%m-%d')]" || echo "Sem alteracoes para commitar"
           git push
