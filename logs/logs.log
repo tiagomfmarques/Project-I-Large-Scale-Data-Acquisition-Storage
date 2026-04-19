@@ -8519,3 +8519,1046 @@
 2026-04-18 20:47:36 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.59339/c.v13i25.820
 2026-04-18 20:47:38 - INFO - Finalizado. API: Crossref | Tema: Information Retrieval | Artigos extraidos: 38
 2026-04-18 20:48:05 - INFO - Processo concluido em 10m 11s. Total de artigos extraidos nesta sessão: 1616
+2026-04-19 20:39:42 - INFO - Processo de extração iniciado.
+2026-04-19 20:39:52 - INFO - API Iniciada: OpenAlex | Tema: Artificial Intelligence
+2026-04-19 20:39:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19641429
+2026-04-19 20:39:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19642169
+2026-04-19 20:39:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19642324
+2026-04-19 20:40:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1186/s12913-026-14595-y
+2026-04-19 20:40:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154865001
+2026-04-19 20:40:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1108/md-05-2025-1425
+2026-04-19 20:40:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22158/rem.v11n1p44
+2026-04-19 20:40:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s00170-026-18072-y
+2026-04-19 20:40:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19644606
+2026-04-19 20:40:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19640814
+2026-04-19 20:40:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.70382/ajaias.v11i2.087
+2026-04-19 20:40:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s10462-026-11565-y
+2026-04-19 20:40:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.7759/cureus.r226
+2026-04-19 20:40:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19639668
+2026-04-19 20:40:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19639649
+2026-04-19 20:40:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154877606
+2026-04-19 20:40:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1177/10963480261446992
+2026-04-19 20:40:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19639569
+2026-04-19 20:40:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19645592
+2026-04-19 20:40:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.31234/osf.io/yta3v_v1
+2026-04-19 20:40:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.13166/jms/218202
+2026-04-19 20:40:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.31234/osf.io/a63eq_v1
+2026-04-19 20:40:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.47738/jads.v7i2.1247
+2026-04-19 20:40:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19638682
+2026-04-19 20:40:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.47738/jads.v7i2.1266
+2026-04-19 20:40:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154877088
+2026-04-19 20:40:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.80011
+2026-04-19 20:40:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.34218/ijaird_04_01_005
+2026-04-19 20:40:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154878038
+2026-04-19 20:40:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54066/jrime.v4i2.3770
+2026-04-19 20:40:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154880739
+2026-04-19 20:40:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19642859
+2026-04-19 20:40:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/isjem06513
+2026-04-19 20:40:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1080/17474124.2026.2662559
+2026-04-19 20:40:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154872357
+2026-04-19 20:40:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1158/2159-8290.cd-26-0271
+2026-04-19 20:40:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.79910
+2026-04-19 20:40:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.63680/ijsate0426155.102
+2026-04-19 20:40:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.14419/ijet.v7i4.21726
+2026-04-19 20:40:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1016/s1474-4422(26)00136-5
+2026-04-19 20:40:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154866386
+2026-04-19 20:40:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.70728/edu.v02.i07.028
+2026-04-19 20:40:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.36948/ijfmr.2026.v08i02.74701
+2026-04-19 20:40:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1186/s43088-026-00762-x
+2026-04-19 20:40:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.78408
+2026-04-19 20:40:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.64823/ijter.2604010
+2026-04-19 20:40:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154875838
+2026-04-19 20:40:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19644860
+2026-04-19 20:40:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19642570
+2026-04-19 20:40:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19642594
+2026-04-19 20:40:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154802064
+2026-04-19 20:40:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.80046
+2026-04-19 20:40:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19637212
+2026-04-19 20:40:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.79774
+2026-04-19 20:40:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19642587
+2026-04-19 20:40:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.80219
+2026-04-19 20:40:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19642273
+2026-04-19 20:40:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/ijsmt.v2i4.381
+2026-04-19 20:40:29 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.70728/edu.v02.i07.011
+2026-04-19 20:40:29 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19641551
+2026-04-19 20:40:29 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.63313/ijed.2004
+2026-04-19 20:40:29 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19644832
+2026-04-19 20:40:29 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19642608
+2026-04-19 20:40:29 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1177/00274321261440199
+2026-04-19 20:40:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.80198
+2026-04-19 20:40:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1126/sciadv.aeb4144
+2026-04-19 20:40:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s12597-026-01158-2
+2026-04-19 20:40:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.38124/ijisrt/26apr676
+2026-04-19 20:40:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19643167
+2026-04-19 20:40:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.79964
+2026-04-19 20:40:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19644797
+2026-04-19 20:40:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/ijcope.v2i4.474
+2026-04-19 20:40:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154865521
+2026-04-19 20:40:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19641924
+2026-04-19 20:40:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.6084/m9.figshare.31959672.v1
+2026-04-19 20:40:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19639659
+2026-04-19 20:40:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.6084/m9.figshare.32049182
+2026-04-19 20:40:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1080/10410236.2026.2660147
+2026-04-19 20:40:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19639799
+2026-04-19 20:40:37 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s40009-026-02056-3
+2026-04-19 20:40:37 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.51583/ijltemas.2026.150300096
+2026-04-19 20:40:37 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s10791-026-10100-5
+2026-04-19 20:40:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154864986
+2026-04-19 20:40:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.69889/gmq4d732
+2026-04-19 20:40:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/isjem06534
+2026-04-19 20:40:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154865005
+2026-04-19 20:40:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s12145-026-02125-7
+2026-04-19 20:40:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-49199-3
+2026-04-19 20:40:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19642524
+2026-04-19 20:40:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19637317
+2026-04-19 20:40:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55813/gaea/rcym/v4/n2/183
+2026-04-19 20:40:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s10765-026-03758-y
+2026-04-19 20:40:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41597-026-07248-6
+2026-04-19 20:40:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s44163-026-01246-8
+2026-04-19 20:40:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.36989/didaktik.v12i02.12716
+2026-04-19 20:40:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19641414
+2026-04-19 20:40:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154881310
+2026-04-19 20:40:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.6084/m9.figshare.32048787.v1
+2026-04-19 20:40:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19638822
+2026-04-19 20:40:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.36948/ijfmr.2026.v08i02.73379
+2026-04-19 20:40:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.62943/rck.v5n1.2026.506
+2026-04-19 20:40:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19644439
+2026-04-19 20:40:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s10898-026-01613-w
+2026-04-19 20:40:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1002/mco2.70606
+2026-04-19 20:40:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/isjem06517
+2026-04-19 20:40:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154865421
+2026-04-19 20:40:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154865857
+2026-04-19 20:40:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2025.80251
+2026-04-19 20:40:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19639731
+2026-04-19 20:40:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.64850/cognitive.v2i1.241
+2026-04-19 20:40:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19642413
+2026-04-19 20:40:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19645456
+2026-04-19 20:40:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.47191/ijcsrr/v9-i4-14
+2026-04-19 20:40:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s42452-026-08684-0
+2026-04-19 20:40:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154865695
+2026-04-19 20:40:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.79847
+2026-04-19 20:40:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19643028
+2026-04-19 20:40:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1108/md-10-2025-3263
+2026-04-19 20:40:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19643226
+2026-04-19 20:40:52 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41746-026-02649-8
+2026-04-19 20:40:52 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19638922
+2026-04-19 20:40:52 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.9734/jsrr/2026/v32i44137
+2026-04-19 20:40:52 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.53515/alqodiri.v24i1.27
+2026-04-19 20:40:52 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1177/27652157261444321
+2026-04-19 20:40:52 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19642346
+2026-04-19 20:40:52 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154876989
+2026-04-19 20:40:52 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-48883-8
+2026-04-19 20:40:52 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s42979-026-04969-8
+2026-04-19 20:40:52 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19638589
+2026-04-19 20:40:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19642882
+2026-04-19 20:40:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154865576
+2026-04-19 20:40:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154866683
+2026-04-19 20:40:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154874531
+2026-04-19 20:40:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s12524-026-02478-y
+2026-04-19 20:40:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1186/s12909-026-09258-9
+2026-04-19 20:40:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154864833
+2026-04-19 20:40:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s40009-026-02233-4
+2026-04-19 20:40:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19643113
+2026-04-19 20:40:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19638744
+2026-04-19 20:40:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1016/j.segan.2026.102261
+2026-04-19 20:40:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1002/aiv2.70002
+2026-04-19 20:40:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1111/grow.70129
+2026-04-19 20:40:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/isjem06492
+2026-04-19 20:40:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1002/adfm.75385
+2026-04-19 20:40:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s40009-026-02124-8
+2026-04-19 20:40:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19642454
+2026-04-19 20:40:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-46719-z
+2026-04-19 20:40:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.32479/ijefi.23359
+2026-04-19 20:40:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/isjem06515
+2026-04-19 20:40:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19642228
+2026-04-19 20:40:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19639177
+2026-04-19 20:41:01 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19642404
+2026-04-19 20:41:01 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.64898/2026.04.16.26351036
+2026-04-19 20:41:01 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.14419/ijet.v7i4.21733
+2026-04-19 20:41:01 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1016/j.jjimei.2026.100411
+2026-04-19 20:41:01 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.26437/gxsrcb23
+2026-04-19 20:41:01 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s10639-026-13994-2
+2026-04-19 20:41:04 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1016/j.intimp.2026.116660
+2026-04-19 20:41:04 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.80132
+2026-04-19 20:41:04 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.31803/tg-20240627004731
+2026-04-19 20:41:04 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154880727
+2026-04-19 20:41:04 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19645151
+2026-04-19 20:41:04 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5281/zenodo.19642742
+2026-04-19 20:41:04 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1097/ms9.0000000000004906
+2026-04-19 20:41:04 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1186/s12911-026-03462-9
+2026-04-19 20:41:04 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41467-026-72020-8
+2026-04-19 20:41:04 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1002/pmf2.70296
+2026-04-19 20:41:04 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41746-026-02608-3
+2026-04-19 20:41:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/engproc2026134059
+2026-04-19 20:41:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/ijerph23040520
+2026-04-19 20:41:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/a19040316
+2026-04-19 20:41:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.7759/cureus.107212
+2026-04-19 20:41:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s00330-026-12489-5
+2026-04-19 20:41:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/jtaer21040122
+2026-04-19 20:41:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/ijsmt.v2i4.350
+2026-04-19 20:41:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3126/sij.v7i1.92560
+2026-04-19 20:41:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1108/md-10-2025-3371
+2026-04-19 20:41:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-48811-w
+2026-04-19 20:41:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s00024-026-03973-6
+2026-04-19 20:41:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1613/jair.1.19057
+2026-04-19 20:41:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.33216/1998-7927-2026-300-2-70-74
+2026-04-19 20:41:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/feduc.2026.1799269
+2026-04-19 20:41:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.21830/19006586.1584
+2026-04-19 20:41:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-48656-3
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s40670-026-02719-2
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fpsyg.2026.1815392
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/s26082475
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.33590/emjradiol/2e4xtru6
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-48143-9
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.80121
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/su18084006
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54097/xwvqf328
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/a19040318
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.23917/saintek.v2i2.16998
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.31803/tg-20240704100407
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.70382/hijedcm.v11i4.046
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/ijcope.v2i4.420
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.33590/emjradiol/19453n4h
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.79954
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-44552-y
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/bioengineering13040475
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/informatics13040063
+2026-04-19 20:41:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.31584/psumj.2026281538
+2026-04-19 20:41:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22610/imbr.v18i1(j).4819
+2026-04-19 20:41:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.80076
+2026-04-19 20:41:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.47813/2782-2818-2026-6-2-1027-1034
+2026-04-19 20:41:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/risks14040091
+2026-04-19 20:41:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/ijcope.v2i4.410
+2026-04-19 20:41:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.78810
+2026-04-19 20:41:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41407-026-3281-2
+2026-04-19 20:41:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5430/wjel.v16n4p469
+2026-04-19 20:41:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.70773/revistatopicos/776446783
+2026-04-19 20:41:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-47778-y
+2026-04-19 20:41:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/computers15040252
+2026-04-19 20:41:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/electronics15081691
+2026-04-19 20:41:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.71456/sultan.v4i1.1696
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/feduc.2026.1716760
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-48996-0
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/diagnostics16081198
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54097/9e16sm14
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.21428/72b97ba5.814ca544
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/app16083903
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54097/w5pc4n40
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41597-026-07261-9
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/diagnostics16081194
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.78876
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.53022/oarjst.2026.16.2.0045
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/futuretransp6020089
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s40203-026-00620-9
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.80129
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/engproc2026129030
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/app16083928
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/ph19040635
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.51583/ijltemas.2026.150300090
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.7759/cureus.107208
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.31803/tg-20250410041940
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1145/3810943
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.64388/irev9i10-1716410
+2026-04-19 20:41:15 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-48740-8
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/diagnostics16081211
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/ijcope.v2i4.226
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.25259/ijmr_3470_2025
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154794218
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.18623/rvd.v23.5991
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1186/s43054-026-00540-5
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/app16083895
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.53850/joltida.1790047
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.14419/ijet.v7i4.21570
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1186/s44158-026-00386-8
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s11548-026-03628-w
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-49020-1
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.64388/irev9i10-1716299
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.37128/2520-6168-2026-1-5
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s00417-026-07230-3
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.70382/bejsmsr.v11i9.022
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.79925
+2026-04-19 20:41:18 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/app16083905
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1186/s43043-026-00323-3
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/automation7020063
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/socsci15040255
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1182/bloodadvances.2026020177
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/en19081943
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54097/sj2n4223
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1051/epjconf/202636302001/pdf
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/info17040380
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41746-026-02651-0
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.70728/human.v02.i07.014
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.47390/spr1342v6i4y2026n16
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-49108-8
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-49096-9
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.31803/tg-20230713121334
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-49281-w
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.62536/sjehss.2026.v4.i4.pp32-50
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fsufs.2026.1802974
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s42979-026-04968-9
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.30605/p62qm016
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-47010-x
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.60079/amfr.v4i2.643
+2026-04-19 20:41:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/ijcope.v2i4.476
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.63564/jnep.v16n4p24
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/smartcities9040071
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.65726/ijrsat.2026.v26.i04.15
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/fi18040213
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/bios16040223
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.61784/wjer3091
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.80166
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1515/med-2026-1380
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-47208-z
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s44387-026-00094-2
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/ijsmt.v2i4.342
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/logistics10040093
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/stats9020043
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1051/epjconf/202636301003/pdf
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/risks14040092
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fmed.2026.1804810
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.80005
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-48965-7
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1051/epjconf/202636301008/pdf
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/frsip.2026.1728615
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.80158
+2026-04-19 20:41:24 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5539/ibr.v19n3p68
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1051/epjconf/202636301011/pdf
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-49391-5
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s11096-026-02124-0
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54097/4wy5me18
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.80012
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.59097/jasae.v4i1.89
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154874974
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/ijsmt.v2i4.349
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/jtaer21040123
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.69693/ijim.v4i2.453
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55942/jebl.v6i2.1746
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.53022/oarjst.2026.16.2.0044
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.52825/isec.v2i.3391
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/su18083991
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54097/qq1dnp53
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41467-026-72119-y
+2026-04-19 20:41:27 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/su18084009
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/app16083921
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-48201-2
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.23960/jtepl.v15i2.571-579
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/ijcope.v2i4.400
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.31803/tg-20251022075850
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1108/ijoem-01-2026-0182
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.29121/shodhkosh.v7.i5s.2026.7539
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/app16083907
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/jemr19020040
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.79292
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5195/d3000.2026.1211
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.47392/irjaem.2026.0133
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41597-026-07203-5
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/ma19081617
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.79901
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41698-026-01422-0
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54097/9ffafk97
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.61784/fer3045
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.29121/shodhkosh.v7.i5s.2026.7542
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/s26082495
+2026-04-19 20:41:30 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s11282-026-00921-x
+2026-04-19 20:41:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-43551-3
+2026-04-19 20:41:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/systems14040440
+2026-04-19 20:41:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.11114/smc.v14i3.8518
+2026-04-19 20:41:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.64898/2026.04.16.718661
+2026-04-19 20:41:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/engproc2026134058
+2026-04-19 20:41:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54082/jamsi.2836
+2026-04-19 20:41:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-48987-1
+2026-04-19 20:41:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.25259/jgoh_40_2025
+2026-04-19 20:41:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-48494-3
+2026-04-19 20:41:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/app16083892
+2026-04-19 20:41:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/feart.2026.1826934
+2026-04-19 20:41:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.30683/1927-7229.2026.15.01
+2026-04-19 20:41:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s42979-026-04974-x
+2026-04-19 20:41:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.59141/jiss.v7i4.2312
+2026-04-19 20:41:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/drones10040298
+2026-04-19 20:41:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-46212-7
+2026-04-19 20:41:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s44295-026-00100-y
+2026-04-19 20:41:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54082/jamsi.2851
+2026-04-19 20:41:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.18623/rvd.v23.5870
+2026-04-19 20:41:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.37034/jems.v8i3.408
+2026-04-19 20:41:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-45023-0
+2026-04-19 20:41:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.58421/misro.v5i1.1268
+2026-04-19 20:41:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.61096/ijamscr.v14.iss2.2026.582-589
+2026-04-19 20:41:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/su18084024
+2026-04-19 20:41:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.52338/tajoph.2026.5467
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-45384-6
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41392-026-02676-7
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/molecules31081305
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1113/jp290785
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1016/j.radi.2026.103413
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-47104-6
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fradm.2026.1835532
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/lubricants14040171
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.31803/tg-20240718091147
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/jimaging12040175
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22541/essoar.15002168/v1
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.29121/shodhkosh.v7.i5s.2026.7534
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.52710/cfs.1035
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.31803/tg-20240410054928
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s13534-026-00578-9
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s44458-026-00072-4
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/app16083894
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1051/epjconf/202636301031/pdf
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-46156-y
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.63371/ic.v5.n2.a974
+2026-04-19 20:41:39 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1051/epjconf/202636301022/pdf
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.47392/irjaem.2026.0134
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.63688/29ctha57
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.64388/irev9i10-1716376
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.7759/cureus.107209
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54097/zgzhb964
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.33590/emjradiol/970tbr76
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s10791-026-10094-0
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.20289/zfdergi.1705688
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1186/s41313-026-00075-7
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.52225/narrax.v4i1.261
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.7759/cureus.107243
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.58806/ijsshmr.2026.v5i4n14
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/ijcope.v2i4.386
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/s26082478
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/fi18040214
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.17816/0321-4443-643493
+2026-04-19 20:41:42 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/bs16040597
+2026-04-19 20:41:45 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41534-026-01229-8
+2026-04-19 20:41:45 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.80205
+2026-04-19 20:41:45 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1002/edm2.70226
+2026-04-19 20:41:45 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/electronics15081704
+2026-04-19 20:41:45 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1111/all.70356
+2026-04-19 20:41:45 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/electronics15081709
+2026-04-19 20:41:45 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.64388/irev9i10-1716211
+2026-04-19 20:41:45 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.79752
+2026-04-19 20:41:45 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.70164/ihsr.v2i2.156
+2026-04-19 20:41:45 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s00040-026-01099-5
+2026-04-19 20:41:45 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.37128/2520-6168-2026-1-3
+2026-04-19 20:41:45 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54097/ghknt739
+2026-04-19 20:41:45 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.14419/ijet.v7i4.21734
+2026-04-19 20:41:45 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1057/s41599-026-07070-w
+2026-04-19 20:41:45 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/s26082476
+2026-04-19 20:41:45 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/electronics15081696
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.36548/jtcsst.2026.2.001
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fpubh.2026.1783083
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.61096/ijamscr.v14.iss2.2026.596-600
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.17816/0321-4443-646264
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/jimaging12040173
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.51583/ijltemas.2026.150300089
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-49107-9
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-46784-4
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/journalmedia7020083
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54082/jamsi.2436
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/network6020025
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.17762/ijisae.v14i1s.8179
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fspor.2026.1792875
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.25259/ijmr_98_2026
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.80162
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/ijsmt.v2i4.318
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22541/essoar.15002159/v1
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/metabo16040273
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/agriculture16080890
+2026-04-19 20:41:48 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.21527/2237-6453.2026.64.17511
+2026-04-19 20:41:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s00530-026-02302-0
+2026-04-19 20:41:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/feart.2026.1770450
+2026-04-19 20:41:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/su18083987
+2026-04-19 20:41:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.71079/aside.cr.041726616
+2026-04-19 20:41:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/digital6020031
+2026-04-19 20:41:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/info17040377
+2026-04-19 20:41:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/jcm15083063
+2026-04-19 20:41:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/electronics15081714
+2026-04-19 20:41:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.51583/ijltemas.2026.150300078
+2026-04-19 20:41:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1016/j.esmorw.2026.100705
+2026-04-19 20:41:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.64898/2026.04.15.718781
+2026-04-19 20:41:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.51583/ijltemas.2026.150300083
+2026-04-19 20:41:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/pr14081289
+2026-04-19 20:41:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s42004-026-02010-w
+2026-04-19 20:41:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/en19081937
+2026-04-19 20:41:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fsurg.2026.1810768
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1057/s41599-026-07080-8
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22214/ijraset.2026.79949
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.70382/tijerls.v11i8.088
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54097/2699n409
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/electronics15081711
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.29121/shodhkosh.v7.i5s.2026.7662
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5603/pjnns.110291
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.31223/x53z1c
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/catal16040365
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/aerospace13040379
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fsufs.2026.1800887
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.47390/spr1342v6i4y2026n29
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/molecules31081310
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54097/gmkmz270
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fmed.2026.1770828
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.52710/cfs.1038
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/su18084001
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-43879-w
+2026-04-19 20:41:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-47074-9
+2026-04-19 20:41:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/curroncol33040226
+2026-04-19 20:41:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.31881/tlr.2026.925
+2026-04-19 20:41:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54097/g1fd3d08
+2026-04-19 20:41:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.58985/jeopc.2026.v04i01.80
+2026-04-19 20:41:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.52783/jchr.v16.i2.13148
+2026-04-19 20:41:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/jpm16040221
+2026-04-19 20:41:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s10068-026-02160-6
+2026-04-19 20:41:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/en19081953
+2026-04-19 20:41:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/su18084022
+2026-04-19 20:41:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1017/s0022029926102246
+2026-04-19 20:41:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/en19081938
+2026-04-19 20:41:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/conservation6020049
+2026-04-19 20:41:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.61351/mf.v4i2.436
+2026-04-19 20:41:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-45772-y
+2026-04-19 20:42:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fmed.2026.1820245
+2026-04-19 20:42:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fresc.2026.1755424
+2026-04-19 20:42:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55905/oelv24n4-018
+2026-04-19 20:42:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55236/tuara.1910851
+2026-04-19 20:42:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.52710/cfs.1037
+2026-04-19 20:42:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54097/by3zec77
+2026-04-19 20:42:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41684-026-01725-6
+2026-04-19 20:42:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.29121/shodhkosh.v7.i5s.2026.7401
+2026-04-19 20:42:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.29121/ijoest.v10.i2.2026.753
+2026-04-19 20:42:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154809314
+2026-04-19 20:42:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/proceedings2026139006
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.7759/cureus.107228
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/w18080954
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/ai7040146
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/su18084020
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/su18084003
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s00285-026-02393-3
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/computers15040253
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.26434/chemrxiv.15002149/v1
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s40812-026-00403-5
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.4018/jgim.407596
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.15517/9pwfnk63
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.30935/scimath/18435
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-45830-5
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.63468/jpsa.4.2.36
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fendo.2026.1799141
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fmed.2026.1828249
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.4018/joeuc.407548
+2026-04-19 20:42:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.2174/0118741495439121260414095419
+2026-04-19 20:42:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.47390/spr1342v6i4y2026n14
+2026-04-19 20:42:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.64898/2026.04.15.26351001
+2026-04-19 20:42:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.52366/edusoshum.v6i1.342
+2026-04-19 20:42:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55606/ijhs.v6i2.7052
+2026-04-19 20:42:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5603/rpor.112209
+2026-04-19 20:42:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s10973-026-15506-3
+2026-04-19 20:42:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.18778/0208-6018.374.01
+2026-04-19 20:42:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1590/scielopreprints.15853
+2026-04-19 20:42:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-39786-9
+2026-04-19 20:42:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/feduc.2026.1728407
+2026-04-19 20:42:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-48951-z
+2026-04-19 20:42:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.56334/sei/9.5.20
+2026-04-19 20:42:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/s26082491
+2026-04-19 20:42:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/ijcope.v2i4.365
+2026-04-19 20:42:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3126/sij.v7i1.92549
+2026-04-19 20:42:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/nursrep16040144
+2026-04-19 20:42:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-46210-9
+2026-04-19 20:42:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1093/eep/dvag014
+2026-04-19 20:42:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54097/xmmb1375
+2026-04-19 20:42:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.22199/issn.0717-6279-7021
+2026-04-19 20:42:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/a19040317
+2026-04-19 20:42:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1590/1982-4327e3610
+2026-04-19 20:42:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fped.2026.1733143
+2026-04-19 20:42:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1186/s12982-026-01704-9
+2026-04-19 20:42:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/engproc2026130008
+2026-04-19 20:42:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.64898/2026.04.13.717714
+2026-04-19 20:42:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.54097/bjjkk857
+2026-04-19 20:42:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s00210-026-05296-8
+2026-04-19 20:42:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fendo.2026.1816599
+2026-04-19 20:42:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.5219/scifood.91
+2026-04-19 20:42:14 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s40656-026-00731-8
+2026-04-19 20:42:14 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41534-026-01236-9
+2026-04-19 20:42:14 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fnins.2026.1791960
+2026-04-19 20:42:14 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-48552-w
+2026-04-19 20:42:14 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/feart.2026.1823440
+2026-04-19 20:42:14 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/math14081349
+2026-04-19 20:42:14 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/electronics15081703
+2026-04-19 20:42:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s44178-026-00249-w
+2026-04-19 20:42:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/s26082484
+2026-04-19 20:42:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s13534-026-00582-z
+2026-04-19 20:42:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/medicina62040781
+2026-04-19 20:42:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1167/iovs.67.4.41
+2026-04-19 20:42:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.62754/joe.v4i4.7165
+2026-04-19 20:42:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fpls.2026.1792696
+2026-04-19 20:42:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.4274/ijca.2026.53765
+2026-04-19 20:42:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s44285-026-00063-w
+2026-04-19 20:42:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/w18080960
+2026-04-19 20:42:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/infrastructures11040139
+2026-04-19 20:42:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fsufs.2026.1648924
+2026-04-19 20:42:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1590/1982-4327e3611
+2026-04-19 20:42:20 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fvets.2026.1812851
+2026-04-19 20:42:20 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/buildings16081584
+2026-04-19 20:42:20 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/ma19081624
+2026-04-19 20:42:20 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s00125-026-06723-4
+2026-04-19 20:42:20 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fanim.2026.1807554
+2026-04-19 20:42:20 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s40203-026-00630-7
+2026-04-19 20:42:20 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.65273/hhit.jna.2026.2.2.035
+2026-04-19 20:42:20 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/e28040465
+2026-04-19 20:42:20 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1590/1808-057x20262290.en
+2026-04-19 20:42:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-48611-2
+2026-04-19 20:42:21 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.37284/ajccrs.5.1.4837
+2026-04-19 20:42:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fphar.2026.1780086
+2026-04-19 20:42:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.65273/hhit.jna.2026.2.2.028
+2026-04-19 20:42:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/educsci16040641
+2026-04-19 20:42:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1590/0034-761220260114x
+2026-04-19 20:42:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fimmu.2026.1813847
+2026-04-19 20:42:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fmars.2026.1693205
+2026-04-19 20:42:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41372-026-02661-6
+2026-04-19 20:42:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.59413/ajocs/v7.i2.37
+2026-04-19 20:42:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/wevj17040213
+2026-04-19 20:42:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.26434/chemrxiv.15002127/v1
+2026-04-19 20:42:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fpsyg.2026.1776932
+2026-04-19 20:42:23 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/su18083998
+2026-04-19 20:42:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/ijms27083580
+2026-04-19 20:42:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/diagnostics16081200
+2026-04-19 20:42:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/jmmp10040134
+2026-04-19 20:42:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/en19081936
+2026-04-19 20:42:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fpsyg.2026.1671509
+2026-04-19 20:42:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fphar.2026.1779469
+2026-04-19 20:42:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.66205/rvbma.v14i2.2078
+2026-04-19 20:42:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/ijms27083582
+2026-04-19 20:42:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/finsc.2026.1766919
+2026-04-19 20:42:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/pharmaceutics18040497
+2026-04-19 20:42:26 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/molecules31081315
+2026-04-19 20:42:29 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/drones10040299
+2026-04-19 20:42:29 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fpsyg.2026.1780099
+2026-04-19 20:42:29 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.33963/v.phj.112156
+2026-04-19 20:42:29 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/en19081944
+2026-04-19 20:42:29 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/rel17040488
+2026-04-19 20:42:29 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/biology15080635
+2026-04-19 20:42:29 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/s26082467
+2026-04-19 20:42:29 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fpubh.2026.1758132
+2026-04-19 20:42:29 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fchem.2026.1817443
+2026-04-19 20:42:29 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41538-026-00841-4
+2026-04-19 20:42:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154871034
+2026-04-19 20:42:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/jcm15083088
+2026-04-19 20:42:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/su18083996
+2026-04-19 20:42:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s10048-026-00902-6
+2026-04-19 20:42:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fspor.2026.1798187
+2026-04-19 20:42:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.12688/f1000research.179230.1
+2026-04-19 20:42:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fspas.2026.1784533
+2026-04-19 20:42:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/electronics15081693
+2026-04-19 20:42:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/plants15081237
+2026-04-19 20:42:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3389/fmed.2026.1775447
+2026-04-19 20:42:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/automation7020062
+2026-04-19 20:42:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/ai7040145
+2026-04-19 20:42:32 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/jof12040286
+2026-04-19 20:42:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s44372-026-00541-z
+2026-04-19 20:42:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/technologies14040237
+2026-04-19 20:42:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/brainsci16040422
+2026-04-19 20:42:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/e28040460
+2026-04-19 20:42:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s00191-026-00958-5
+2026-04-19 20:42:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.15517/0kkxfq07
+2026-04-19 20:42:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.64898/2026.04.14.718256
+2026-04-19 20:42:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.23900/ra.v24i110.700
+2026-04-19 20:42:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.3390/s26082499
+2026-04-19 20:42:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://doi.org/10.29105/rce-fod.v21i1.158
+2026-04-19 20:42:35 - INFO - Artigo adicionado. API: OpenAlex | Tema: Artificial Intelligence | URL: https://openalex.org/W7154877220
+2026-04-19 20:42:37 - INFO - Finalizado. API: OpenAlex | Tema: Artificial Intelligence | Artigos extraidos: 634
+2026-04-19 20:43:11 - INFO - API Iniciada: OpenAlex | Tema: Natural Language Processing
+2026-04-19 20:43:14 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.jss.2026.03.037
+2026-04-19 20:43:14 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.55041/isjem06526
+2026-04-19 20:43:14 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.5281/zenodo.19634765
+2026-04-19 20:43:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.38124/ijisrt/26apr707
+2026-04-19 20:43:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.22214/ijraset.2026.79312
+2026-04-19 20:43:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.32628/ijsrst52310284
+2026-04-19 20:43:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://openalex.org/W7154865923
+2026-04-19 20:43:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.63363/aijfr.2026.v07i02.5005
+2026-04-19 20:43:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1145/3810245
+2026-04-19 20:43:17 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://openalex.org/W7154865489
+2026-04-19 20:43:19 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.55041/ijcope.v2i4.481
+2026-04-19 20:43:19 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.9734/ajrcos/2026/v19i4851
+2026-04-19 20:43:19 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://openalex.org/W7154865706
+2026-04-19 20:43:19 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://openalex.org/W7154864818
+2026-04-19 20:43:22 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.22214/ijraset.2026.79504
+2026-04-19 20:43:22 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1002/pro.70578
+2026-04-19 20:43:22 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://openalex.org/W7154865589
+2026-04-19 20:43:22 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.5281/zenodo.19645958
+2026-04-19 20:43:22 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.64388/irev9i10-1716179
+2026-04-19 20:43:22 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.22214/ijraset.2026.80025
+2026-04-19 20:43:22 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/a19040315
+2026-04-19 20:43:22 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.64898/2026.04.14.718564
+2026-04-19 20:43:22 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.31803/tg-20250325111250
+2026-04-19 20:43:25 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.54097/f54r7313
+2026-04-19 20:43:25 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1038/s41598-026-38998-3
+2026-04-19 20:43:25 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/electronics15081699
+2026-04-19 20:43:25 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1145/3810241
+2026-04-19 20:43:25 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s11682-026-01148-4
+2026-04-19 20:43:28 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://openalex.org/W7154801870
+2026-04-19 20:43:28 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/su18084012
+2026-04-19 20:43:28 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s10741-026-10633-3
+2026-04-19 20:43:31 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.61784/wjit3097
+2026-04-19 20:43:31 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.64388/irev9i10-1716387
+2026-04-19 20:43:31 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.55507/gopzfd.1681251
+2026-04-19 20:43:34 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/vetsci13040394
+2026-04-19 20:43:34 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1017/jlc.2026.10019
+2026-04-19 20:43:34 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/brainsci16040421
+2026-04-19 20:43:34 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.22158/sshsr.v7n1p18
+2026-04-19 20:43:34 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/brainsci16040420
+2026-04-19 20:43:34 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/su18084017
+2026-04-19 20:43:34 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.5296/ijl.v18i2.23561
+2026-04-19 20:43:34 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.54097/0ey28c47
+2026-04-19 20:43:34 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.31261/fl.2026.14.1.05
+2026-04-19 20:43:34 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.70267/jlce.2026.v3n2.118127
+2026-04-19 20:43:37 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.54097/v2tss416
+2026-04-19 20:43:37 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.54097/ce342v32
+2026-04-19 20:43:37 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.24903/sj.v11i1.2345
+2026-04-19 20:43:37 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s44274-026-00703-6
+2026-04-19 20:43:37 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.64898/2026.04.16.718920
+2026-04-19 20:43:37 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.57033/mijournals-2026-5-0089
+2026-04-19 20:43:37 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.21463/shima.291
+2026-04-19 20:43:37 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.54535/rep.1886959
+2026-04-19 20:43:37 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.54097/1yexpj52
+2026-04-19 20:43:37 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.54097/fm7hf862
+2026-04-19 20:43:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://openalex.org/W7154867881
+2026-04-19 20:43:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.54097/xbzgxt77
+2026-04-19 20:43:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s10551-026-06311-x
+2026-04-19 20:43:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/sym18040670
+2026-04-19 20:43:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s10763-026-10663-1
+2026-04-19 20:43:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/arts15040084
+2026-04-19 20:43:40 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.28976/1984-2686rbpec2026u291320
+2026-04-19 20:43:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.64898/2026.04.14.718602
+2026-04-19 20:43:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.20289/zfdergi.1818527
+2026-04-19 20:43:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.54097/h5vk3r70
+2026-04-19 20:43:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1140/epjds/s13688-026-00657-y
+2026-04-19 20:43:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.54097/vjh8t845
+2026-04-19 20:43:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://openalex.org/W7154878324
+2026-04-19 20:43:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/su18084004
+2026-04-19 20:43:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.5194/nhess-26-1785-2026
+2026-04-19 20:43:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.54097/8gw72b11
+2026-04-19 20:43:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.24310/stheg...23045
+2026-04-19 20:43:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.21463/shima.278
+2026-04-19 20:43:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.5430/wjel.v16n4p480
+2026-04-19 20:43:43 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1038/s41598-026-47674-5
+2026-04-19 20:43:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1186/s12982-026-01639-1
+2026-04-19 20:43:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.54097/rjsr9q36
+2026-04-19 20:43:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.21463/shima.280
+2026-04-19 20:43:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/ijerph23040516
+2026-04-19 20:43:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.63313/ijed.9060
+2026-04-19 20:43:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.56946/jzs.v4i1.868
+2026-04-19 20:43:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.12688/f1000research.178997.1
+2026-04-19 20:43:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s44282-026-00401-x
+2026-04-19 20:43:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1140/epjqt/s40507-026-00505-y
+2026-04-19 20:43:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.52710/cfs.1039
+2026-04-19 20:43:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s44372-026-00555-7
+2026-04-19 20:43:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.30827/trif.35460
+2026-04-19 20:43:46 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.58421/gehu.v5i2.1370
+2026-04-19 20:43:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s40003-026-00990-8
+2026-04-19 20:43:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.21463/shima.288
+2026-04-19 20:43:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.54097/sgqyzs81
+2026-04-19 20:43:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.29121/shodhkosh.v7.i5s.2026.7255
+2026-04-19 20:43:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.55041/ijcope.v2i4.425
+2026-04-19 20:43:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/socsci15040261
+2026-04-19 20:43:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.37811/cl_rcm.v10i2.23355
+2026-04-19 20:43:49 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.7759/cureus.107241
+2026-04-19 20:43:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.64898/2026.04.16.718970
+2026-04-19 20:43:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/laws15020033
+2026-04-19 20:43:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/rs18081220
+2026-04-19 20:43:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1186/s12982-026-01561-6
+2026-04-19 20:43:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s11273-026-10134-y
+2026-04-19 20:43:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/info17040379
+2026-04-19 20:43:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s40823-026-00112-8
+2026-04-19 20:43:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1017/s1682098326100447
+2026-04-19 20:43:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1515/nietzstu-2025-0047
+2026-04-19 20:43:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/culture2020008
+2026-04-19 20:43:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/ani16081229
+2026-04-19 20:43:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/philosophies11020063
+2026-04-19 20:43:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1017/s0030605325102512
+2026-04-19 20:43:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1017/s1479409826101116
+2026-04-19 20:43:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.22214/ijraset.2026.80172
+2026-04-19 20:43:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/socsci15040257
+2026-04-19 20:43:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.52710/fcb.253
+2026-04-19 20:43:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.5875/kdbqse30
+2026-04-19 20:43:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/molecules31081309
+2026-04-19 20:43:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/jintelligence14040068
+2026-04-19 20:43:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s13752-026-00540-z
+2026-04-19 20:43:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.2174/0118742858469776260414215154
+2026-04-19 20:43:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1057/s41599-026-06942-5
+2026-04-19 20:43:55 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.22541/essoar.15001303/v3
+2026-04-19 20:43:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s11224-026-02777-7
+2026-04-19 20:43:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.17305/bb.2026.13941
+2026-04-19 20:43:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s00436-026-08669-3
+2026-04-19 20:43:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s10910-026-01784-7
+2026-04-19 20:43:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/su18083986
+2026-04-19 20:43:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.64898/2026.04.14.718168
+2026-04-19 20:43:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1093/jpe/rtag088
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s42399-026-02365-0
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/agriculture16080892
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1186/s12982-026-01814-4
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s10551-026-06324-6
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/en19081946
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/land15040665
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.62762/tisc.2026.121086
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s12228-026-09877-y
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/ani16081239
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/agronomy16080822
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/cimb48040414
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.55942/pssj.v6i4.1395
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1038/s42005-026-02615-6
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/pr14081293
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/jintelligence14040069
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/biomass6020032
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/brainsci16040419
+2026-04-19 20:44:00 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/polym18080980
+2026-04-19 20:44:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/su18083999
+2026-04-19 20:44:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.55463/issn.1674-2974.53.4.2
+2026-04-19 20:44:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/genes17040473
+2026-04-19 20:44:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s44202-026-00642-6
+2026-04-19 20:44:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/gels12040335
+2026-04-19 20:44:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/insects17040433
+2026-04-19 20:44:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/ani16081236
+2026-04-19 20:44:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3892/wasj.2026.464
+2026-04-19 20:44:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1093/ismejo/wrag098
+2026-04-19 20:44:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s11101-026-10247-5
+2026-04-19 20:44:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1038/s41598-026-48050-z
+2026-04-19 20:44:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/jrfm19040289
+2026-04-19 20:44:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/molecules31081311
+2026-04-19 20:44:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s13534-026-00577-w
+2026-04-19 20:44:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1038/s41598-026-41942-0
+2026-04-19 20:44:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s10368-026-00748-1
+2026-04-19 20:44:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/foods15081413
+2026-04-19 20:44:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s10029-026-03671-1
+2026-04-19 20:44:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1057/s41291-026-00327-x
+2026-04-19 20:44:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.20961/yustisia.v15i1.110549
+2026-04-19 20:44:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/sci8040091
+2026-04-19 20:44:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/oral6020046
+2026-04-19 20:44:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1038/s43856-026-01586-7
+2026-04-19 20:44:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.17510/paradigma.v16i1.1741
+2026-04-19 20:44:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1057/s41599-025-06335-0
+2026-04-19 20:44:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.2174/0118740707407791260409045456
+2026-04-19 20:44:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/educsci16040647
+2026-04-19 20:44:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s00468-026-02759-6
+2026-04-19 20:44:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.51460/baebd.1759127
+2026-04-19 20:44:06 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/mi17040494
+2026-04-19 20:44:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://openalex.org/W7154871018
+2026-04-19 20:44:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.32942/x2kd4j
+2026-04-19 20:44:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1038/s41598-026-47073-w
+2026-04-19 20:44:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1038/s43856-026-01574-x
+2026-04-19 20:44:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/agronomy16080821
+2026-04-19 20:44:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/app16083912
+2026-04-19 20:44:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/ijms27083585
+2026-04-19 20:44:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s13412-026-01102-2
+2026-04-19 20:44:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s44163-025-00811-x
+2026-04-19 20:44:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/molecules31081317
+2026-04-19 20:44:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s10824-026-09591-3
+2026-04-19 20:44:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.3390/microorganisms14040908
+2026-04-19 20:44:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1017/s1740022826100461
+2026-04-19 20:44:09 - INFO - Artigo adicionado. API: OpenAlex | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s42106-026-00431-0
+2026-04-19 20:44:14 - INFO - Finalizado. API: OpenAlex | Tema: Natural Language Processing | Artigos extraidos: 188
+2026-04-19 20:44:44 - INFO - API Iniciada: OpenAlex | Tema: Information Retrieval
+2026-04-19 20:44:47 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.59688/7t2cff37
+2026-04-19 20:44:47 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1016/j.erss.2026.104720
+2026-04-19 20:44:47 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://openalex.org/W7154865601
+2026-04-19 20:44:47 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.31234/osf.io/b538a_v1
+2026-04-19 20:44:47 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://openalex.org/W7154865688
+2026-04-19 20:44:47 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://openalex.org/W7154865659
+2026-04-19 20:44:47 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://openalex.org/W7154865232
+2026-04-19 20:44:47 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://openalex.org/W7154864894
+2026-04-19 20:44:47 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://openalex.org/W7154865757
+2026-04-19 20:44:47 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1016/j.array.2026.100814
+2026-04-19 20:44:47 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.5281/zenodo.19637840
+2026-04-19 20:44:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.5281/zenodo.19642532
+2026-04-19 20:44:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.14419/ijet.v7i4.21576
+2026-04-19 20:44:51 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.54097/7t0f8v79
+2026-04-19 20:44:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/rs18081219
+2026-04-19 20:44:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.64898/2026.04.14.718401
+2026-04-19 20:44:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.51583/ijltemas.2026.150300085
+2026-04-19 20:44:54 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.55041/ijcope.v2i4.251
+2026-04-19 20:44:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/plants15081236
+2026-04-19 20:44:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.64898/2026.04.14.718584
+2026-04-19 20:44:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/app16083890
+2026-04-19 20:44:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.5194/hess-30-2207-2026
+2026-04-19 20:44:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.54097/r6606852
+2026-04-19 20:44:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1007/s10791-026-10098-w
+2026-04-19 20:44:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.65339/ijsair.v2.i2.243
+2026-04-19 20:44:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.22214/ijraset.2026.80230
+2026-04-19 20:44:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.35895/jpsi.2.1.1-11.2026
+2026-04-19 20:44:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.64388/irev9i10-1716334
+2026-04-19 20:44:57 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.64388/irev9i10-1716315
+2026-04-19 20:44:59 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1007/s11357-026-02255-2
+2026-04-19 20:44:59 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/safety12020054
+2026-04-19 20:44:59 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.31881/tlr.2026.901
+2026-04-19 20:44:59 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/jfb17040192
+2026-04-19 20:44:59 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/electronics15081708
+2026-04-19 20:44:59 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.14419/ijet.v7i4.21525
+2026-04-19 20:44:59 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.17148/ijarcce.2026.15499
+2026-04-19 20:44:59 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.22214/ijraset.2026.80140
+2026-04-19 20:45:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1007/s00401-026-03015-4
+2026-04-19 20:45:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/photonics13040384
+2026-04-19 20:45:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/atmos17040409
+2026-04-19 20:45:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/diagnostics16081205
+2026-04-19 20:45:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1186/s43055-026-01745-9
+2026-04-19 20:45:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1038/s41598-026-45674-z
+2026-04-19 20:45:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1007/s00213-026-07054-3
+2026-04-19 20:45:03 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1038/s41415-026-9536-7
+2026-04-19 20:45:07 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.22541/essoar.15002153/v1
+2026-04-19 20:45:07 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1038/s42003-026-10095-1
+2026-04-19 20:45:07 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/biology15080637
+2026-04-19 20:45:07 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1007/s10943-026-02664-9
+2026-04-19 20:45:07 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1007/s11596-026-00197-6
+2026-04-19 20:45:07 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.7196/sajch.2026.v20i1.3009
+2026-04-19 20:45:07 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.64898/2026.04.14.718336
+2026-04-19 20:45:07 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1038/s41598-026-47542-2
+2026-04-19 20:45:07 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/socsci15040256
+2026-04-19 20:45:07 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1038/s41467-026-71280-8
+2026-04-19 20:45:07 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.54103/2282-0930/30736
+2026-04-19 20:45:07 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/pharmaceutics18040493
+2026-04-19 20:45:10 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/nu18081282
+2026-04-19 20:45:10 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3389/dyst.2026.15695
+2026-04-19 20:45:10 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.64898/2026.04.15.718672
+2026-04-19 20:45:10 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1038/s41467-026-72066-8
+2026-04-19 20:45:10 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/coatings16040486
+2026-04-19 20:45:10 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.64898/2026.04.14.718518
+2026-04-19 20:45:10 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1038/s41419-026-08747-5
+2026-04-19 20:45:10 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/healthcare14081067
+2026-04-19 20:45:10 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/s26082470
+2026-04-19 20:45:10 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/s26082489
+2026-04-19 20:45:10 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/polym18080982
+2026-04-19 20:45:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.3390/rs18081214
+2026-04-19 20:45:12 - INFO - Artigo adicionado. API: OpenAlex | Tema: Information Retrieval | URL: https://doi.org/10.1038/s41467-026-72036-0
+2026-04-19 20:45:15 - INFO - Finalizado. API: OpenAlex | Tema: Information Retrieval | Artigos extraidos: 70
+2026-04-19 20:45:47 - INFO - API Iniciada: Crossref | Tema: Artificial Intelligence
+2026-04-19 20:45:49 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.15276/mdt.10.2.2026.7
+2026-04-19 20:45:52 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s41060-026-01086-w
+2026-04-19 20:45:52 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.31874/2309-1606-2025-31-2-19
+2026-04-19 20:45:54 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.15276/mdt.10.2.2026.3
+2026-04-19 20:45:54 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-47769-z
+2026-04-19 20:45:56 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.21608/ijslc.2026.463067.1043
+2026-04-19 20:45:56 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.63313/edu.4003
+2026-04-19 20:45:56 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.5005/jp-journals-10071-25188
+2026-04-19 20:45:57 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s43621-026-03174-0
+2026-04-19 20:45:57 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1016/j.sbi.2026.103272
+2026-04-19 20:45:57 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1186/s12982-026-01928-9
+2026-04-19 20:45:59 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.52398/gjsd.2026.v6.i1.pp3-31
+2026-04-19 20:45:59 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s12672-026-05010-3
+2026-04-19 20:46:01 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.64348/zije.2026377
+2026-04-19 20:46:03 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-48953-x
+2026-04-19 20:46:04 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.13166/jms/218202
+2026-04-19 20:46:06 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s42452-026-08670-6
+2026-04-19 20:46:06 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s44163-026-01263-7
+2026-04-19 20:46:06 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.18623/rvd.v23.6011
+2026-04-19 20:46:08 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1016/j.engappai.2026.114868
+2026-04-19 20:46:08 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.46889/jdhor.2026.7132
+2026-04-19 20:46:09 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.56334/sei/9.5.21
+2026-04-19 20:46:09 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1007/s44217-026-01483-0
+2026-04-19 20:46:14 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.59256/ijire.20260702035
+2026-04-19 20:46:14 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1080/10494820.2026.2657516
+2026-04-19 20:46:16 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/isjem06548
+2026-04-19 20:46:16 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.14324/herj.23.1.09
+2026-04-19 20:46:16 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.46654/f4rt6f71
+2026-04-19 20:46:16 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-48202-1
+2026-04-19 20:46:16 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.38140/ijer-2026.vol8.1.16
+2026-04-19 20:46:16 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.7759/cureus.107313
+2026-04-19 20:46:16 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.31874/2309-1606-2025-31-2-5
+2026-04-19 20:46:18 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.21608/egjsw.2026.484993.1628
+2026-04-19 20:46:18 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.56334/sei/9.5.22
+2026-04-19 20:46:18 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.21608/idj.2026.477544.1553
+2026-04-19 20:46:19 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.64348/zije.2026383
+2026-04-19 20:46:19 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.46889/jcmr.2026.7120
+2026-04-19 20:46:19 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.64348/zije.2026387
+2026-04-19 20:46:19 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.33448/rsd-v15i4.50948
+2026-04-19 20:46:21 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.64348/zije.2026380
+2026-04-19 20:46:23 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.64726/b3r20694
+2026-04-19 20:46:23 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1038/s41598-026-48309-5
+2026-04-19 20:46:24 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.54901/educa.v9-195
+2026-04-19 20:46:24 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.52398/gjsd.2026.v6.i1.pp150-170
+2026-04-19 20:46:24 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.47738/jads.v7i2.1163
+2026-04-19 20:46:26 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.36713/epra27211
+2026-04-19 20:46:28 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.59256/indjcst.20260501044
+2026-04-19 20:46:28 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1134/s1063454126700135
+2026-04-19 20:46:29 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.29130/dubited.1793166
+2026-04-19 20:46:29 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.70773/revistatopicos/776517243
+2026-04-19 20:46:31 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/isjem06600
+2026-04-19 20:46:31 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.46507/jcgpp.v7i1.797
+2026-04-19 20:46:33 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1071/pc25086
+2026-04-19 20:46:33 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.55677/sshrb/2026-3050-0410
+2026-04-19 20:46:33 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.38035/dijdbm.v7i3.6530
+2026-04-19 20:46:35 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.1504/ijbsr.2027.10077826
+2026-04-19 20:46:35 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.61445/tofedu.v5i2.1730
+2026-04-19 20:46:38 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.55041/ijcope.v2i4.498
+2026-04-19 20:46:40 - INFO - Artigo adicionado. API: Crossref | Tema: Artificial Intelligence | URL: https://doi.org/10.55730/1300-0128.4408
+2026-04-19 20:46:43 - INFO - Finalizado. API: Crossref | Tema: Artificial Intelligence | Artigos extraidos: 59
+2026-04-19 20:47:11 - INFO - API Iniciada: Crossref | Tema: Natural Language Processing
+2026-04-19 20:47:14 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.cognition.2026.106551
+2026-04-19 20:47:14 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.compchemeng.2026.109654
+2026-04-19 20:47:16 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.specom.2026.103391
+2026-04-19 20:47:19 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.26417/m6qx7f11
+2026-04-19 20:47:19 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.bmcl.2026.130664
+2026-04-19 20:47:21 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s44274-026-00701-8
+2026-04-19 20:47:21 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1186/s12963-026-00475-4
+2026-04-19 20:47:22 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.26417/tpgx9p41
+2026-04-19 20:47:26 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.53007/sjgc.2026.v11.i1.286
+2026-04-19 20:47:26 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.20965/jrm.2026.p0460
+2026-04-19 20:47:28 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1103/nmky-mykb
+2026-04-19 20:47:30 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s44372-026-00570-8
+2026-04-19 20:47:33 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.scowo.2026.100226
+2026-04-19 20:47:37 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.aei.2026.104703
+2026-04-19 20:47:42 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.29130/dubited.1749656
+2026-04-19 20:47:42 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.jmgm.2026.109405
+2026-04-19 20:47:44 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.29130/dubited.1686488
+2026-04-19 20:47:44 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.isci.2026.115607
+2026-04-19 20:47:45 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.47738/jads.v7i2.1118
+2026-04-19 20:47:45 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s11245-026-10421-6
+2026-04-19 20:47:45 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s10791-026-10027-x
+2026-04-19 20:47:47 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s44163-026-01239-7
+2026-04-19 20:47:47 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.foodres.2026.119094
+2026-04-19 20:47:49 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.phymed.2026.158197
+2026-04-19 20:47:51 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s13369-026-11303-0
+2026-04-19 20:47:52 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.ensm.2026.105128
+2026-04-19 20:47:52 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.32328/turkjforsci.1825496
+2026-04-19 20:47:56 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.58421/gehu.v5i2.1102
+2026-04-19 20:47:57 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1038/s41598-026-47125-1
+2026-04-19 20:48:06 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.54033/cadpedv23n4-017
+2026-04-19 20:48:08 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.biombioe.2026.109433
+2026-04-19 20:48:08 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.watres.2026.125932
+2026-04-19 20:48:08 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.seppur.2026.138029
+2026-04-19 20:48:08 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s44416-026-00063-7
+2026-04-19 20:48:08 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.jiec.2025.12.001
+2026-04-19 20:48:11 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.59231/sari7935
+2026-04-19 20:48:11 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.apr.2025.102883
+2026-04-19 20:48:14 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.24197/dbmsxs66
+2026-04-19 20:48:16 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.talanta.2026.129850
+2026-04-19 20:48:16 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.ssci.2026.107244
+2026-04-19 20:48:17 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.47777/cankujhss.1816100
+2026-04-19 20:48:19 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.24197/cqtdks65
+2026-04-19 20:48:23 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.31467/uluaricilik.1888536
+2026-04-19 20:48:24 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.rcsop.2026.100785
+2026-04-19 20:48:29 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.56334/sei/9.5.24
+2026-04-19 20:48:29 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.63924/jsid.v7i2.239
+2026-04-19 20:48:31 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.crad.2026.107315
+2026-04-19 20:48:33 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1007/s00181-026-02910-9
+2026-04-19 20:48:33 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1080/10286632.2026.2653066
+2026-04-19 20:48:34 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.64355/agjhss51312
+2026-04-19 20:48:36 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.47738/jads.v7i2.1136
+2026-04-19 20:48:36 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.bmc.2026.118664
+2026-04-19 20:48:38 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.foodchem.2026.149275
+2026-04-19 20:48:38 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.bspc.2026.110321
+2026-04-19 20:48:43 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.jiec.2025.11.038
+2026-04-19 20:48:43 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.1016/j.lwt.2026.119345
+2026-04-19 20:48:44 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.24197/7r2kbw60
+2026-04-19 20:48:44 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.32585/kawruh.v8i1.7554
+2026-04-19 20:48:46 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.21608/jsu.2026.498612
+2026-04-19 20:48:46 - INFO - Artigo adicionado. API: Crossref | Tema: Natural Language Processing | URL: https://doi.org/10.56238/levv17n59-045
+2026-04-19 20:48:47 - INFO - Finalizado. API: Crossref | Tema: Natural Language Processing | Artigos extraidos: 60
+2026-04-19 20:49:14 - INFO - API Iniciada: Crossref | Tema: Information Retrieval
+2026-04-19 20:49:21 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.38094/jastt7031083
+2026-04-19 20:49:22 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.1016/j.learninstruc.2026.102377
+2026-04-19 20:49:22 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.1016/j.theriogenology.2026.117945
+2026-04-19 20:49:24 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.55041/isjem06598
+2026-04-19 20:49:29 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.1016/j.knosys.2026.116029
+2026-04-19 20:49:31 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.1007/s00415-026-13802-4
+2026-04-19 20:49:34 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.1016/j.rmed.2026.108838
+2026-04-19 20:49:36 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.21608/bsge.2026.471096.1058
+2026-04-19 20:49:37 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.63562/2577-8439.1152
+2026-04-19 20:49:39 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.1016/j.engappai.2026.114877
+2026-04-19 20:49:41 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.65237/2336-3630-2026-4(2)-13
+2026-04-19 20:49:43 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.63158/journalisi.v8i2.1532
+2026-04-19 20:49:46 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.32755/sjcriminal.2026.01.201
+2026-04-19 20:49:48 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.32755/sjcriminal.2026.01.166
+2026-04-19 20:49:48 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.14419/ijet.v7i4.21683
+2026-04-19 20:49:48 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.47738/jads.v7i2.1257
+2026-04-19 20:49:49 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.32628/ijsrst2511149
+2026-04-19 20:49:49 - INFO - Artigo adicionado. API: Crossref | Tema: Information Retrieval | URL: https://doi.org/10.29130/dubited.1648031
+2026-04-19 20:49:52 - INFO - Finalizado. API: Crossref | Tema: Information Retrieval | Artigos extraidos: 18
+2026-04-19 20:50:25 - INFO - Processo concluido em 10m 42s. Total de artigos extraidos nesta sessão: 1029
