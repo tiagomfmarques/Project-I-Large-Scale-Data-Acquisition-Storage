@@ -51,58 +51,73 @@ def guardar_dados(novos_itens, chave_raiz):
 
 # Função principal para executar o pipeline completo
 def executar_pipeline():
+
     tempo_inicio = time.time()
     logger.info("Processo de extracao iniciado.")
 
-    existing_titles = set()
+    total_novos = 0
+    existing_article_titles = set()
+    existing_dataset_titles = set()
+
     if os.path.exists(settings.DATA_PATH):
         try:
             with open(settings.DATA_PATH, "r", encoding="utf-8") as f:
                 data = json.load(f)
-                for categoria in ["articles", "datasets"]:
-                    for item in data.get(categoria, []):
-                        existing_titles.add(item["title"].lower().strip())
+
+                for art in data.get("articles", []):
+                    if "title" in art:
+                        existing_article_titles.add(art["title"].lower().strip())
+
+                for ds in data.get("datasets", []):
+                    if "title" in ds:
+                        existing_dataset_titles.add(ds["title"].lower().strip())
+
+            logger.info(
+                f"Base local carregada. Artigos conhecidos: {len(existing_article_titles)} | Datasets conhecidos: {len(existing_dataset_titles)}")
         except Exception as e:
             logger.error(f"Erro ao carregar base local: {e}")
 
-    total_novos_sessao = 0
-
-    # UCIrvine (Web Scraping)
+    # UCIrvine (Scraper)
+    logger.info("LOG: [UCIrvine] A iniciar extração de datasets")
     try:
         uci_config = {
             'subjects': settings.UCI_SUBJECTS,
             'max_datasets_per_subject': settings.UCI_MAX_PER_SUBJECT
         }
+        novos_datasets = extrair_ucirvine(uci_config, existing_dataset_titles)
 
-        novos_datasets = extrair_ucirvine(uci_config, existing_titles)
         if novos_datasets:
             guardar_dados(novos_datasets, "datasets")
-            total_novos_sessao += len(novos_datasets)
-            # Log de finalização da fonte seguindo o padrão
+            total_novos += len(novos_datasets)
             logger.info(f"Finalizado. Fonte: UCIrvine | Datasets extraidos: {len(novos_datasets)}")
+        else:
+            logger.info("Finalizado. Fonte: UCIrvine | Nenhum dataset novo encontrado.")
     except Exception as e:
         logger.error(f"Falha critica no scraper UCIrvine: {e}")
 
     # OpenAlex (API)
+    logger.info("LOG: [OPENALEX] A iniciar extração de artigos...")
     for query in settings.QUERIES:
         try:
-            artigos_oa = extrair_openalex(query, existing_titles)
+
+            artigos_oa = extrair_openalex(query, existing_article_titles)
             if artigos_oa:
                 guardar_dados(artigos_oa, "articles")
-                total_novos_sessao += len(artigos_oa)
+                total_novos += len(artigos_oa)
                 logger.info(f"Finalizado. API: OpenAlex | Tema: {query} | Artigos extraidos: {len(artigos_oa)}")
             time.sleep(random.uniform(2, 5))
         except Exception as e:
             logger.error(f"Erro na query '{query}' do OpenAlex: {e}")
 
     # Crossref (API)
+    logger.info("LOG: [CROSSREF] A iniciar extração de artigos...")
     for query in settings.QUERIES:
         try:
 
-            artigos_cr = extrair_crossref(query, existing_titles)
+            artigos_cr = extrair_crossref(query, existing_article_titles)
             if artigos_cr:
                 guardar_dados(artigos_cr, "articles")
-                total_novos_sessao += len(artigos_cr)
+                total_novos += len(artigos_cr)
                 logger.info(f"Finalizado. API: Crossref | Tema: {query} | Artigos extraidos: {len(artigos_cr)}")
             time.sleep(random.uniform(2, 5))
         except Exception as e:
@@ -112,8 +127,7 @@ def executar_pipeline():
     duracao_segundos = tempo_fim - tempo_inicio
     minutos, segundos = divmod(duracao_segundos, 60)
 
-
-    logger.info(f"Processo concluido em {int(minutos)}m {int(segundos)}s. Total de artigos extraidos nesta sessão: {total_novos_sessao}")
+    logger.info(f"Processo concluido em {int(minutos)}m {int(segundos)}s. Total de itens extraidos nesta sessão: {total_novos}")
 
 
 if __name__ == "__main__":
