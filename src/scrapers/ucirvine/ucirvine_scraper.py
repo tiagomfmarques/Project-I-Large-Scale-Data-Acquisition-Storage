@@ -36,11 +36,17 @@ def extrair_ucirvine(config, existing_titles):
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument("--remote-debugging-port=9222")
 
-    # Iniciar o Driver (O Service trata do ChromeDriver automaticamente)
-    service = Service(ChromeDriverManager().install())
-    driver = webdriver.Chrome(service=service, options=chrome_options)
+    chrome_options.binary_location = "/usr/bin/google-chrome"
+
+    try:
+
+        service = Service(ChromeDriverManager().install())
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+    except Exception as e:
+
+        print(f"DEBUG: Falha no WebDriverManager, a tentar alternativa direta: {e}")
+        driver = webdriver.Chrome(options=chrome_options)
 
     max_per_subject = config.get('max_datasets_per_subject', 250)
     all_extracted = []
@@ -75,7 +81,7 @@ def extrair_ucirvine(config, existing_titles):
                 except:
                     break
 
-           
+
             for link in links[:max_per_subject]:
                 driver.get(link)
                 time.sleep(2)
