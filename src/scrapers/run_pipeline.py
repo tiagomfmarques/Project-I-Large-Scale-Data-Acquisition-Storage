@@ -72,13 +72,12 @@ def executar_pipeline():
                     if "title" in ds:
                         existing_dataset_titles.add(ds["title"].lower().strip())
 
-            logger.info(
-                f"Base local carregada. Artigos conhecidos: {len(existing_article_titles)} | Datasets conhecidos: {len(existing_dataset_titles)}")
+            logger.info(f"Base local carregada. Artigos carregados: {len(existing_article_titles)} | Datasets carregados: {len(existing_dataset_titles)}")
         except Exception as e:
             logger.error(f"Erro ao carregar base local: {e}")
 
-    # UCIrvine (Scraper)
-    logger.info("LOG: [UCIrvine] A iniciar extração de datasets")
+    # UCIrvine (Web Scraping)
+    logger.info("UCIrvine a iniciar extração de datasets.")
     try:
         uci_config = {
             'subjects': settings.UCI_SUBJECTS,
@@ -96,7 +95,7 @@ def executar_pipeline():
         logger.error(f"Falha critica no scraper UCIrvine: {e}")
 
     # OpenAlex (API)
-    logger.info("LOG: [OPENALEX] A iniciar extração de artigos...")
+    logger.info("OpenAlex a iniciar extração de artigos.")
     for query in settings.QUERIES:
         try:
 
@@ -110,7 +109,7 @@ def executar_pipeline():
             logger.error(f"Erro na query '{query}' do OpenAlex: {e}")
 
     # Crossref (API)
-    logger.info("LOG: [CROSSREF] A iniciar extração de artigos...")
+    logger.info("Crossref a iniciar extração de artigos.")
     for query in settings.QUERIES:
         try:
 

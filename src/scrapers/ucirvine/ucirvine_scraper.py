@@ -12,7 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
-
+# Função para converter tamanhos de arquivos em MB
 def parse_size_to_mb(size_str):
     size_str = size_str.upper().replace(',', '.')
     number = re.search(r"(\d+\.?\d*)", size_str)
@@ -23,21 +23,34 @@ def parse_size_to_mb(size_str):
     if "KB" in size_str: return val / 1024
     return val / (1024 * 1024) if "B" in size_str else val
 
-
+# Função para obter o prefixo de log com timestamp
 def get_log_prefix():
     return datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-
+# Função principal para extrair datasets do UCIrvine
 def extrair_ucirvine(config, existing_titles):
     chrome_options = Options()
 
+    # 1. Configurações de estabilidade (Headless para GitHub, Normal para teu PC)
+    # Se quiseres ver o browser no teu PC, comenta a linha --headless
     chrome_options.add_argument("--headless=new")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--window-size=1920,1080")
 
-    chrome_options.binary_location = "/usr/bin/google-chrome"
+    # 2. Tentar encontrar o binário do Chrome automaticamente
+    # Removemos a linha fixa /usr/bin/google-chrome para evitar o erro que tiveste
+
+    try:
+        # O webdriver-manager vai baixar o driver correto para a tua versão do Chrome
+        service = Service(ChromeDriverManager().install())
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+    except Exception as e:
+        # Se falhar (comum em CI/CD), tenta a inicialização direta
+        print(f"DEBUG: Falha no Service, tentando inicialização direta: {e}")
+        driver = webdriver.Chrome(options=chrome_options)
+
 
     try:
 
@@ -66,21 +79,30 @@ def extrair_ucirvine(config, existing_titles):
                 current_cards = driver.find_elements(By.CSS_SELECTOR, "h2.text-primary a")
                 for card in current_cards:
                     link = card.get_attribute("href")
-                    if link not in links:
+                    if link and link not in links:
                         links.append(link)
 
-                if len(links) >= max_per_subject: break
-
-                try:
-                    next_button = driver.find_element(By.XPATH, "//button[@aria-label='Next Page']")
-                    if next_button.is_enabled():
-                        next_button.click()
-                        time.sleep(3)
-                    else:
-                        break
-                except:
+                if len(links) >= max_per_subject:
                     break
 
+                try:
+                    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                    time.sleep(3)
+
+                    next_button = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, 'button[aria-label="Next Page"]')))
+
+                    is_disabled = next_button.get_attribute("disabled") or "disabled" in next_button.get_attribute("class")
+
+                    if is_disabled:
+                        print(f"{get_log_prefix()} - INFO - Última página real atingida para {subject}", flush=True)
+                        break
+                    driver.execute_script("arguments[0].click();", next_button)
+
+                    time.sleep(5)
+
+                except Exception as e:
+                    print(f"{get_log_prefix()} - INFO - Paginação terminada para {subject}. Total links: {len(links)}",flush=True)
+                    break
 
             for link in links[:max_per_subject]:
                 driver.get(link)
