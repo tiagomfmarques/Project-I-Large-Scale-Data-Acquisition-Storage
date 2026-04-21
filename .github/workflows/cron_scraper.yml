@@ -25,21 +25,26 @@ jobs:
       - name: Instalar dependencias
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          # Adicionadas as dependencias do Selenium e Webdriver Manager
+          pip install requests selenium webdriver-manager
+
+      - name: Instalar Google Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
 
       - name: Executar Pipeline
         env:
-
           PYTHONPATH: ${{ github.workspace }}
         run: |
+          # O script deve rodar em modo 'headless' no GitHub Actions
           python src/scrapers/run_pipeline.py
 
       - name: Fazer Commit dos Dados e Logs
         run: |
           git config --global user.name "GitHub Action Scraper"
           git config --global user.email "action@github.com"
-          # Adiciona as pastas para garantir que novos ficheiros sao detetados
           git add data/raw/scientific_articles_data.json
-          git add logs/logs.log
-          git commit -m "Auto-update: Novos artigos [$(date +'%Y-%m-%d')]" || echo "Sem alteracoes para commitar"
+          git add logs/logs.log 
+          git commit -m "Auto-update: Novos artigos e datasets [$(date +'%Y-%m-%d')]" || echo "Sem alteracoes"
           git push
