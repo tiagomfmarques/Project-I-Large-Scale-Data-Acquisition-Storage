@@ -12,7 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
-# Função para converter tamanhos de arquivos em MB
+
 def parse_size_to_mb(size_str):
     size_str = size_str.upper().replace(',', '.')
     number = re.search(r"(\d+\.?\d*)", size_str)
@@ -23,29 +23,37 @@ def parse_size_to_mb(size_str):
     if "KB" in size_str: return val / 1024
     return val / (1024 * 1024) if "B" in size_str else val
 
-# Função para gerar prefixo de log com timestamp
+
 def get_log_prefix():
     return datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-# Função principal do scraper UCIrvine
+
 def extrair_ucirvine(config, existing_titles):
     chrome_options = Options()
 
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
-    driver.maximize_window()
+    chrome_options.add_argument("--headless=new")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--window-size=1920,1080")
+    chrome_options.add_argument("--remote-debugging-port=9222")
+
+    # Iniciar o Driver (O Service trata do ChromeDriver automaticamente)
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=chrome_options)
 
     max_per_subject = config.get('max_datasets_per_subject', 250)
     all_extracted = []
 
     try:
         for subject in config.get('subjects', []):
+            # Log de início de área
             print(f"{get_log_prefix()} - INFO - Scraper Iniciado: UCIrvine | Area: {subject}")
 
             subject_url = f"https://archive.ics.uci.edu/datasets?subjectArea={subject.replace(' ', '+')}"
             driver.get(subject_url)
 
-            wait = WebDriverWait(driver, 20)
-            time.sleep(5)
+            time.sleep(7)
 
             links = []
             while len(links) < max_per_subject:
@@ -67,9 +75,8 @@ def extrair_ucirvine(config, existing_titles):
                 except:
                     break
 
-            links_to_process = links[:max_per_subject]
-
-            for link in links_to_process:
+           
+            for link in links[:max_per_subject]:
                 driver.get(link)
                 time.sleep(2)
 
@@ -78,24 +85,26 @@ def extrair_ucirvine(config, existing_titles):
                     title = title_element.text.strip()
 
                     if title.lower().strip() in existing_titles:
-
                         continue
+
 
                     info_elements = driver.find_elements(By.CSS_SELECTOR, "p.svelte-1xc1tf7")
                     dataset_info = " ".join([el.text.strip() for el in info_elements if el.text.strip()])
 
-                    # Donated Year
+
                     try:
                         donation_text = driver.find_element(By.CSS_SELECTOR, "h2.text-primary-content").text
                         year = donation_text.split('/')[-1] if '/' in donation_text else "N/A"
                     except:
                         year = "N/A"
 
+
                     try:
                         citations_el = driver.find_element(By.XPATH, "//span[contains(text(), 'citations')]")
                         citations = citations_el.text.split()[0]
                     except:
                         citations = "0"
+
 
                     total_size_mb = 0.0
                     try:
@@ -106,7 +115,7 @@ def extrair_ucirvine(config, existing_titles):
                     except:
                         file_size_display = "N/A"
 
-                    # Grid Meta
+
                     metadata = {}
                     grid_items = driver.find_elements(By.CSS_SELECTOR, "div.grid-cols-8 > div, div.grid-cols-12 > div")
                     for item in grid_items:
@@ -143,8 +152,9 @@ def extrair_ucirvine(config, existing_titles):
 
                     print(f"{get_log_prefix()} - INFO - Dataset adicionado. Fonte: UCIrvine | Area: {subject} | URL: {link}")
 
-                except Exception as e:
-                    pass
+                except Exception:
+
+                    continue
 
     finally:
         driver.quit()
