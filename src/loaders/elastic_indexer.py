@@ -12,7 +12,7 @@ es = Elasticsearch(
     max_retries=10,
     retry_on_timeout=True
 )
-INDEX_NAME = "artigos_cientificos"
+INDEX_NAME = "artigos_dataset_cientificos"
 
 # Carregar dados do arquivo JSON
 def carregar_dados_no_elastic():

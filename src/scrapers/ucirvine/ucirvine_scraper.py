@@ -31,19 +31,13 @@ def get_log_prefix():
 def extrair_ucirvine(config, existing_titles):
     chrome_options = Options()
 
-    # 1. Configurações de estabilidade (Headless para GitHub, Normal para teu PC)
-    # Se quiseres ver o browser no teu PC, comenta a linha --headless
     chrome_options.add_argument("--headless=new")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--window-size=1920,1080")
 
-    # 2. Tentar encontrar o binário do Chrome automaticamente
-    # Removemos a linha fixa /usr/bin/google-chrome para evitar o erro que tiveste
-
     try:
-        # O webdriver-manager vai baixar o driver correto para a tua versão do Chrome
         service = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=service, options=chrome_options)
     except Exception as e:
@@ -51,9 +45,7 @@ def extrair_ucirvine(config, existing_titles):
         print(f"DEBUG: Falha no Service, tentando inicialização direta: {e}")
         driver = webdriver.Chrome(options=chrome_options)
 
-
     try:
-
         service = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=service, options=chrome_options)
     except Exception as e:
@@ -88,9 +80,7 @@ def extrair_ucirvine(config, existing_titles):
                 try:
                     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                     time.sleep(3)
-
                     next_button = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, 'button[aria-label="Next Page"]')))
-
                     is_disabled = next_button.get_attribute("disabled") or "disabled" in next_button.get_attribute("class")
 
                     if is_disabled:
@@ -115,10 +105,8 @@ def extrair_ucirvine(config, existing_titles):
                     if title.lower().strip() in existing_titles:
                         continue
 
-
                     info_elements = driver.find_elements(By.CSS_SELECTOR, "p.svelte-1xc1tf7")
                     dataset_info = " ".join([el.text.strip() for el in info_elements if el.text.strip()])
-
 
                     try:
                         donation_text = driver.find_element(By.CSS_SELECTOR, "h2.text-primary-content").text
@@ -126,13 +114,11 @@ def extrair_ucirvine(config, existing_titles):
                     except:
                         year = "N/A"
 
-
                     try:
                         citations_el = driver.find_element(By.XPATH, "//span[contains(text(), 'citations')]")
                         citations = citations_el.text.split()[0]
                     except:
                         citations = "0"
-
 
                     total_size_mb = 0.0
                     try:

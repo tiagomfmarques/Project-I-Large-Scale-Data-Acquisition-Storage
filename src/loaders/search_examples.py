@@ -1,7 +1,7 @@
 from elasticsearch import Elasticsearch
 
 es = Elasticsearch("http://localhost:9200")
-INDEX_NAME = "artigos_cientificos"
+INDEX_NAME = "artigos_dataset_cientificos"
 
 # Função para formatar e exibir os resultados de forma legível
 def formatar_resultado(hit):
@@ -16,7 +16,7 @@ def formatar_resultado(hit):
     print(f"Website/URL:  {s.get('website', 'N/A')} ({s.get('url', 'N/A')})")
     print(f"Relevância (Score): {hit['_score']}")
 
-# Função para realizar uma pesquisa geral com fuzziness em múltiplos campos
+# Função para realizar uma pesquisa geral em múltiplos campos
 def pesquisa_geral(termo):
 
     query = {
@@ -84,7 +84,7 @@ def menu():
             for hit in resultados['hits']['hits']:
                 formatar_resultado(hit)
 
-# Ponto de entrada do programa, verificando a conexão com o Elasticsearch antes de iniciar o menu
+
 if __name__ == "__main__":
     if es.ping():
         menu()
