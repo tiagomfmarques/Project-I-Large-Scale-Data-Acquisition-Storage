@@ -39,11 +39,11 @@ jobs:
           # O script deve rodar em modo 'headless' no GitHub Actions
           python src/scrapers/run_pipeline.py
 
-      - name: Fazer Commit dos Dados e Logs
+      - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action Scraper"
-          git config --global user.email "action@github.com"
-          git add data/raw/scientific_articles_data.json
-          git add logs/logs.log 
-          git commit -m "Auto-update: Novos artigos e datasets [$(date +'%Y-%m-%d')]" || echo "Sem alteracoes"
-          git push
+          git config --global user.email "actions@github.com"
+          git add data/raw/*.json
+          git commit -m "Auto-update: Novos artigos e datasets [$(date +'%Y-%m-%d')]" || true
+          git pull --rebase origin main
+          git push origin main
