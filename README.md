@@ -1,4 +1,4 @@
-# **Sistema de Aquisição e Pesquisa de Artigos Científicos**
+# **Sistema de Aquisição e Pesquisa de Artigos Científicos e Datasets**
 
 ---
 [![Python 3.10](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
