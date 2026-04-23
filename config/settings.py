@@ -23,7 +23,7 @@ UCI_SUBJECTS = [
 ]
 
 # Limite de datasets por cada Subject Area
-UCI_MAX_PER_SUBJECT = 50
+UCI_MAX_PER_SUBJECT = 500
 
 # Configurações de API e Scraping
 USER_AGENT = "Mozilla/5.0 (ProjetoData; mailto: teste2026@gmail.com)"
