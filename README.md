@@ -10,6 +10,6 @@ Este projeto foi desenvolvido para a unidade curricular de Ciência de Dados em 
 
 ---
 
-**Versão**: 1.0  
+**Versão**: 1.0 
 **Ultimo Update**: Abril 30, 2026  
-**Made by**: [Ana Fernandes](https://github.com/anafrnandes), [Tiago Marques](https://github.com/TomasSilvaGomes/), [Tomás Gomes](https://github.com/tiagomfmarques)
+**Made by**: [Ana Fernandes](https://github.com/anafrnandes), [Tiago Marques](https://github.com/tiagomfmarques), [Tomás Gomes](https://github.com/TomasSilvaGomes/)

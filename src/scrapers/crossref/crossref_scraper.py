@@ -7,6 +7,7 @@ import sys
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from config import settings
+import hashlib
 
 logger = logging.getLogger("Pipeline")
 
@@ -59,7 +60,10 @@ def extrair_crossref(query, existing_identifiers):
                 dp = art.get("published-print", art.get("published-online", {})).get("date-parts", [[None]])
                 article_url = art.get("URL", "")
 
+                sha256_id = hashlib.sha256(article_url.encode('utf-8')).hexdigest()
+
                 artigo = {
+                    "id": sha256_id,
                     "id_api": "crossref_api",
                     "url": article_url,
                     "website": art.get("publisher", "Crossref"),
@@ -84,5 +88,5 @@ def extrair_crossref(query, existing_identifiers):
             logger.error(f"Erro na Crossref | Tema: {theme_formatted} | Detalhe: {e}")
             break
 
-    logger.info(f"Finalizado. API: Crossref | Tema: {theme_formatted} | Artigos extraidos: {count_da_query}")
+
     return novos_artigos

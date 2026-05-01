@@ -6,6 +6,7 @@ import sys
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from config import settings
+import hashlib
 
 logger = logging.getLogger("Pipeline")
 
@@ -57,7 +58,11 @@ def extrair_openalex(query, existing_identifiers):
 
             article_url = work.get("doi") or work.get("id")
 
+            url_para_hash = article_url if article_url else ""
+            sha256_id = hashlib.sha256(url_para_hash.encode('utf-8')).hexdigest()
+
             artigo = {
+                "id": sha256_id,
                 "id_api": "openalex_api",
                 "url": article_url,
                 "website": "OpenAlex",
@@ -77,5 +82,4 @@ def extrair_openalex(query, existing_identifiers):
 
         cursor = data.get("meta", {}).get("next_cursor")
 
-    logger.info(f"Finalizado. API: OpenAlex | Tema: {theme_formatted} | Artigos extraidos: {count_da_query}")
     return novos_artigos
