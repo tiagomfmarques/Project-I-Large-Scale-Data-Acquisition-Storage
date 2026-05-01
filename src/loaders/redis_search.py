@@ -1,10 +1,13 @@
 import redis
 import json
 
+# Configurar cliente Redis
 r = redis.Redis(host='localhost', port=6379, db=0, decode_responses=True)
 
+
+# Função para pesquisar dados no Redis de forma estruturada
 def pesquisar_estruturado(termo):
-    print(f"A pesquisar resultados estruturados para: '{termo}'...")
+    print(f"A pesquisar resultados para: '{termo}'")
 
     resultados_finais = []
 
@@ -30,13 +33,21 @@ def pesquisar_estruturado(termo):
             ordem_campos = ordem_artigos if e_artigo else ordem_datasets
 
             item_ordenado = {}
+
+            # 1. Mantém exatamente a tua estrutura e ordem
             for campo in ordem_campos:
                 if campo in dados:
                     item_ordenado[campo] = dados[campo]
 
+            # 2. ADIÇÃO: Vai buscar TUDO o resto que não estava na lista (ex: abstract)
+            for campo_extra in dados:
+                if campo_extra not in item_ordenado:
+                    item_ordenado[campo_extra] = dados[campo_extra]
+
             resultados_finais.append(item_ordenado)
 
     return resultados_finais
+
 
 if __name__ == "__main__":
     query = input("Pesquisa: ")
